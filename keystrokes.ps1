@@ -70,9 +70,10 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
       }
       $lst_ary = $lst.ToArray()
       $lst_str = [string]::Join(",",$lst_ary)
-      [System.IO.File]::AppendAllText($logPath, $lst_str, $C_Encode) 
-      [System.IO.File]::AppendAllText($logPath, "`t" + $endtime.ToString($C_dateformat), $C_Encode)
-      [System.IO.File]::AppendAllText($logPath, "`t" + $i + "`r`n", $C_Encode)
+      [System.IO.File]::AppendAllText($logPath, $endtime.ToString($C_dateformat), $C_Encode)
+      [System.IO.File]::AppendAllText($logPath, "`t" + $i, $C_Encode)
+      [System.IO.File]::AppendAllText($logPath, "`t" + $lst_str, $C_Encode) 
+      [System.IO.File]::AppendAllText($logPath, "`r`n", $C_Encode)
       $i = 0
       $buf = ''
       $val_pre = ''
@@ -84,9 +85,10 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
     $lst += $buf
     $lst_ary = $lst.ToArray()
     $lst_str = [string]::Join(",",$lst_ary)
-    [System.IO.File]::AppendAllText($logPath, $lst_str, $C_Encode) 
-    [System.IO.File]::AppendAllText($logPath, "`t" + $endtime.ToString($C_dateformat), $C_Encode)
-    [System.IO.File]::AppendAllText($logPath, "`t" + $i + "`r`n", $C_Encode)
+    [System.IO.File]::AppendAllText($logPath, $endtime.ToString($C_dateformat), $C_Encode)
+    [System.IO.File]::AppendAllText($logPath, "`t" + $i, $C_Encode)
+    [System.IO.File]::AppendAllText($logPath, "`t" + $lst_str, $C_Encode) 
+    [System.IO.File]::AppendAllText($logPath, "`r`n", $C_Encode)
     notepad $logPath
   }
 }
