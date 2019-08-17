@@ -46,3 +46,10 @@
 [2019/08/17 10:37:43] INFO 2019/08/17 10:37	7108		
 [2019/08/17 10:38:43] INFO 2019/08/17 10:38	16572		
 [2019/08/17 10:39:43] INFO 2019/08/17 10:39	7108		
+[2019/08/17 11:51:18] INFO get config from ./keystrokes.config.ps1
+[2019/08/17 11:51:18] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/17 11:51:18] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190817.txt
+[2019/08/17 11:51:23] INFO 2019/08/17 11:51	9600		
+[2019/08/17 11:52:08] INFO get config from ./keystrokes.config.ps1
+[2019/08/17 11:52:08] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/17 11:52:08] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190817.txt
