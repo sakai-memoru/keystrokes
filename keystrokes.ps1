@@ -43,7 +43,7 @@ function output-line($logPath, $ary_str, $cnt){
   $ary = $arylst.ToArray()
   $line = [String]::Join("`t", $ary)
   
-  Add-Content -Path $logPath -Value "$line`r`n" -Encoding $C_Encode
+  Add-Content -Path $logPath -Value $line -Encoding $C_Encode
   if($C_debug_mode){
     # $logger.info.Invoke("logPath=$logPath")
     # $logger.info.Invoke("cnt=$cnt")
