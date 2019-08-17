@@ -1,3 +1,6 @@
+## debug model
+$C_debug_mode = $true
+
 ## log output interval (sec)
 $C_interval = 60
 
