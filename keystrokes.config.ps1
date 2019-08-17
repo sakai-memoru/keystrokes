@@ -11,7 +11,7 @@ $C_waittime = 40
 $C_dateformat = "yyyy/MM/dd HH:mm"
 
 ## encode
-$C_Encode = [System.Text.Encoding]::Unicode
+$C_Encode = 'UTF8'
 
 ## output folder
 $C_output_folder = "$env:temp"
