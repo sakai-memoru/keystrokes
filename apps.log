@@ -296,3 +296,2087 @@
 [2019/08/17 14:32:24] INFO line=2019/08/17 14:32	6616	0	
 [2019/08/17 14:33:24] INFO line=2019/08/17 14:33	6616	35	LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,operate,Space,category,,Space,process,Space
 [2019/08/17 14:34:23] INFO line=2019/08/17 14:34	12836	20	name,Space,to,Space,analyse,LButton,LButton,LButton,LButton,LButton
+[2019/08/17 14:35:23] INFO line=2019/08/17 14:35	6616	26	LButton,LButton,LButton,LButton,modify,Space,a,Space,little,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/17 14:36:23] INFO line=2019/08/17 14:36	18944	2	LButton,LButton
+[2019/08/17 14:37:23] INFO line=2019/08/17 14:37	13356	9	LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/17 14:38:22] INFO line=2019/08/17 14:38	13356	13	LButton,RButton,LButton,RButton,LButton,LButton,LButton,RButton,LButton,RButton,LButton,RButton,LButton
+[2019/08/17 14:39:22] INFO line=2019/08/17 14:39	12836	10	RButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/17 14:40:22] INFO line=2019/08/17 14:40	18944	0	
+[2019/08/17 14:41:21] INFO line=2019/08/17 14:41	18944	0	
+[2019/08/17 14:42:21] INFO line=2019/08/17 14:42	13412	3	LButton,LButton,LButton
+[2019/08/17 14:43:21] INFO line=2019/08/17 14:43	4932	21	key,LButton,Double-Click,LButton,LButton,wi,LButton,Double-Click,LButton,LButton,LButton,RButton,LButton,Ctrl + Home,LButton,LButton,LButton,LButton
+[2019/08/17 14:44:20] INFO line=2019/08/17 14:44	13412	15	LButton,LButton,LButton,LButton,LButton,LButton,LButton,RButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/17 14:45:20] INFO line=2019/08/17 14:45	13188	4	LButton,LButton,Ctrl + c,Ctrl + c
+[2019/08/17 14:46:19] INFO line=2019/08/17 14:46	18944	1	LButton
+[2019/08/17 14:46:27] INFO line=2019/08/17 14:46	18944	1	LButton,
+[2019/08/18 13:17:34] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 13:17:34] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 13:17:34] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 13:18:34] INFO line=2019/08/18 13:18	18076	43	LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/18 13:19:33] INFO line=2019/08/18 13:19	12952	126	LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/18 13:20:33] INFO line=2019/08/18 13:20	18076	104	LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/18 13:21:32] INFO line=2019/08/18 13:21	18076	70	LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/18 13:30:18] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 13:30:19] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 13:30:19] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 13:32:39] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 13:32:39] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 13:32:39] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 13:33:39] INFO line=2019/08/18 13:33	10648	2	LButton,LButton
+[2019/08/18 13:52:22] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 13:52:22] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 13:52:22] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 13:52:28] INFO line=2019/08/18 13:52	0	0	
+[2019/08/18 13:53:25] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 13:53:25] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 13:53:25] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 13:54:25] INFO line=2019/08/18 13:54	0	5	LButton,LButton,LButton,LButton,LButton,
+[2019/08/18 13:56:01] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 13:56:01] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 13:56:01] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 13:57:01] INFO line=2019/08/18 13:57	0	3	LButton,LButton,LButton,
+[2019/08/18 13:58:28] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 13:58:28] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 13:58:28] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 13:59:28] INFO line=2019/08/18 13:59	10648	6	LButton,LButton,LButton,LButton,LButton,LButton
+[2019/08/18 14:05:18] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:05:18] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:05:18] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:05:31] INFO line=2019/08/18 14:05	10648	0	
+[2019/08/18 14:06:21] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:06:21] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:06:21] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:07:20] INFO line=2019/08/18 14:07	9964		
+[2019/08/18 14:08:20] INFO line=2019/08/18 14:08	9964	0	
+[2019/08/18 14:09:20] INFO line=2019/08/18 14:09	9964	0	
+[2019/08/18 14:10:19] INFO line=2019/08/18 14:10	9964	0	
+[2019/08/18 14:11:19] INFO line=2019/08/18 14:11	10648	0	
+[2019/08/18 14:16:48] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:16:48] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:16:48] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:17:48] INFO line=2019/08/18 14:17	9964	93	4	8	59	Shift + g,Shift + g, i,Shift + i, n,Shift + BackSpace,Shift + BackSpace, a,Shift + a, n,Shift + n, t,Shift + t, Space,Shift + s,Shift + s, t,Shift + e,Shift + e, p,Shift + p, Space,1232,Shift + i,''vealwayspridedmyselfonmyabilitiyotopuroducelastingchangesinalmostanyone.,Shift + i,Shift + Space
+[2019/08/18 14:18:47] INFO line=2019/08/18 14:18	1076	3	0	0	15	
+[2019/08/18 14:19:47] INFO line=2019/08/18 14:19	1076	0	0	0	67	
+[2019/08/18 14:22:20] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:22:20] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:22:21] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:23:02] INFO rtn=
+[2019/08/18 14:23:02] INFO rtn=
+[2019/08/18 14:23:03] INFO rtn=
+[2019/08/18 14:23:03] INFO rtn=
+[2019/08/18 14:23:04] INFO rtn=
+[2019/08/18 14:23:04] INFO rtn=
+[2019/08/18 14:23:05] INFO rtn=
+[2019/08/18 14:23:05] INFO rtn=
+[2019/08/18 14:23:07] INFO rtn=
+[2019/08/18 14:23:07] INFO rtn=
+[2019/08/18 14:23:08] INFO rtn=
+[2019/08/18 14:23:12] INFO rtn=
+[2019/08/18 14:23:14] INFO rtn=
+[2019/08/18 14:23:14] INFO rtn=
+[2019/08/18 14:23:14] INFO rtn=
+[2019/08/18 14:23:20] INFO line=2019/08/18 14:23	10648	0	0	2	13	
+[2019/08/18 14:23:25] INFO rtn=
+[2019/08/18 14:23:27] INFO rtn=
+[2019/08/18 14:23:28] INFO rtn=
+[2019/08/18 14:23:28] INFO rtn=
+[2019/08/18 14:23:28] INFO rtn=
+[2019/08/18 14:23:28] INFO rtn=
+[2019/08/18 14:23:28] INFO rtn=
+[2019/08/18 14:23:29] INFO rtn=
+[2019/08/18 14:23:29] INFO rtn=
+[2019/08/18 14:23:29] INFO rtn=
+[2019/08/18 14:23:29] INFO rtn=
+[2019/08/18 14:23:30] INFO rtn=
+[2019/08/18 14:23:30] INFO rtn=i
+[2019/08/18 14:23:31] INFO rtn=
+[2019/08/18 14:23:32] INFO rtn=
+[2019/08/18 14:23:34] INFO rtn=
+[2019/08/18 14:23:37] INFO rtn=
+[2019/08/18 14:23:41] INFO rtn=t
+[2019/08/18 14:23:41] INFO rtn=h
+[2019/08/18 14:23:41] INFO rtn=o
+[2019/08/18 14:23:41] INFO rtn=u
+[2019/08/18 14:23:42] INFO rtn=g
+[2019/08/18 14:23:42] INFO rtn=h
+[2019/08/18 14:23:47] INFO rtn=
+[2019/08/18 14:23:59] INFO rtn=
+[2019/08/18 14:24:03] INFO rtn=
+[2019/08/18 14:24:04] INFO rtn=
+[2019/08/18 14:24:57] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:24:57] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:24:57] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:25:07] INFO value=LButton, rtn=
+[2019/08/18 14:25:09] INFO value=BackSpace, rtn=
+[2019/08/18 14:25:11] INFO value=,, rtn=,
+[2019/08/18 14:25:11] INFO value=Space, rtn=
+[2019/08/18 14:25:13] INFO value=w, rtn=w
+[2019/08/18 14:25:13] INFO value=h, rtn=h
+[2019/08/18 14:25:13] INFO value=e, rtn=e
+[2019/08/18 14:25:13] INFO value=n, rtn=n
+[2019/08/18 14:25:14] INFO value=Space, rtn=
+[2019/08/18 14:25:18] INFO value=a, rtn=a
+[2019/08/18 14:25:19] INFO value=Space, rtn=
+[2019/08/18 14:25:19] INFO value=m, rtn=m
+[2019/08/18 14:25:19] INFO value=a, rtn=a
+[2019/08/18 14:25:19] INFO value=n, rtn=n
+[2019/08/18 14:25:19] INFO value=Space, rtn=
+[2019/08/18 14:25:27] INFO value=LButton, rtn=
+[2019/08/18 14:25:47] INFO value=LButton, rtn=
+[2019/08/18 14:25:48] INFO value=LButton, rtn=
+[2019/08/18 14:26:50] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:26:50] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:26:50] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:27:04] INFO value=LButton, rtn=LButton
+[2019/08/18 14:27:05] INFO value=LButton, rtn=LButton
+[2019/08/18 14:27:06] INFO value=LButton, rtn=LButton
+[2019/08/18 14:27:13] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:13] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:13] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:27:14] INFO value=Shift + 7, rtn='
+[2019/08/18 14:27:14] INFO value=Shift + 7, rtn='
+[2019/08/18 14:27:15] INFO value=s, rtn=s
+[2019/08/18 14:27:18] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:27:23] INFO value=d, rtn=d
+[2019/08/18 14:27:23] INFO value=Space, rtn= 
+[2019/08/18 14:27:23] INFO value=Space, rtn= 
+[2019/08/18 14:27:43] INFO value=h, rtn=h
+[2019/08/18 14:27:43] INFO value=e, rtn=e
+[2019/08/18 14:27:44] INFO value=l, rtn=l
+[2019/08/18 14:27:44] INFO value=p, rtn=p
+[2019/08/18 14:27:45] INFO value=e, rtn=e
+[2019/08/18 14:27:45] INFO value=d, rtn=d
+[2019/08/18 14:27:45] INFO value=Space, rtn= 
+[2019/08/18 14:27:47] INFO value=y, rtn=y
+[2019/08/18 14:27:47] INFO value=e, rtn=e
+[2019/08/18 14:27:47] INFO value=a, rtn=a
+[2019/08/18 14:27:47] INFO value=r, rtn=r
+[2019/08/18 14:27:48] INFO value=s, rtn=s
+[2019/08/18 14:27:48] INFO value=Space, rtn= 
+[2019/08/18 14:27:50] INFO value=b, rtn=b
+[2019/08/18 14:27:50] INFO value=e, rtn=e
+[2019/08/18 14:27:50] INFO line=2019/08/18 14:27	9964	15	0	2	9	LButton,LButton,LButton,Shift + i,''s,BackSpace
+[2019/08/18 14:27:50] INFO value=f, rtn=f
+[2019/08/18 14:27:50] INFO value=o, rtn=o
+[2019/08/18 14:27:50] INFO value=r, rtn=r
+[2019/08/18 14:27:51] INFO value=e, rtn=e
+[2019/08/18 14:27:51] INFO value=Space, rtn= 
+[2019/08/18 14:27:52] INFO value=t, rtn=t
+[2019/08/18 14:27:52] INFO value=o, rtn=o
+[2019/08/18 14:27:52] INFO value=Space, rtn= 
+[2019/08/18 14:27:53] INFO value=q, rtn=q
+[2019/08/18 14:27:53] INFO value=u, rtn=u
+[2019/08/18 14:27:53] INFO value=i, rtn=i
+[2019/08/18 14:27:53] INFO value=t, rtn=t
+[2019/08/18 14:27:53] INFO value=Space, rtn= 
+[2019/08/18 14:27:54] INFO value=s, rtn=s
+[2019/08/18 14:27:54] INFO value=m, rtn=m
+[2019/08/18 14:27:54] INFO value=o, rtn=o
+[2019/08/18 14:27:55] INFO value=k, rtn=k
+[2019/08/18 14:27:55] INFO value=i, rtn=i
+[2019/08/18 14:27:55] INFO value=n, rtn=n
+[2019/08/18 14:27:55] INFO value=g, rtn=g
+[2019/08/18 14:27:55] INFO value=Space, rtn= 
+[2019/08/18 14:27:56] INFO value=a, rtn=a
+[2019/08/18 14:27:56] INFO value=p, rtn=p
+[2019/08/18 14:27:56] INFO value=p, rtn=p
+[2019/08/18 14:27:56] INFO value=r, rtn=r
+[2019/08/18 14:27:57] INFO value=o, rtn=o
+[2019/08/18 14:27:58] INFO value=c, rtn=c
+[2019/08/18 14:27:58] INFO value=h, rtn=h
+[2019/08/18 14:27:58] INFO value=e, rtn=e
+[2019/08/18 14:27:58] INFO value=d, rtn=d
+[2019/08/18 14:27:59] INFO value=Space, rtn= 
+[2019/08/18 14:28:00] INFO value=m, rtn=m
+[2019/08/18 14:28:00] INFO value=e, rtn=e
+[2019/08/18 14:28:01] INFO value=,, rtn=,
+[2019/08/18 14:28:01] INFO value=Space, rtn= 
+[2019/08/18 14:28:01] INFO value=p, rtn=p
+[2019/08/18 14:28:01] INFO value=u, rtn=u
+[2019/08/18 14:28:02] INFO value=l, rtn=l
+[2019/08/18 14:28:02] INFO value=l, rtn=l
+[2019/08/18 14:28:02] INFO value=d, rtn=d
+[2019/08/18 14:28:02] INFO value=e, rtn=e
+[2019/08/18 14:28:04] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:04] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:04] INFO value=e, rtn=e
+[2019/08/18 14:28:04] INFO value=d, rtn=d
+[2019/08/18 14:28:06] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:07] INFO value=Left, rtn=Left
+[2019/08/18 14:28:08] INFO value=Left, rtn=Left
+[2019/08/18 14:28:08] INFO value=a, rtn=a
+[2019/08/18 14:28:09] INFO value=End, rtn=End
+[2019/08/18 14:28:10] INFO value=Space, rtn= 
+[2019/08/18 14:28:10] INFO value=a, rtn=a
+[2019/08/18 14:28:11] INFO value=Space, rtn= 
+[2019/08/18 14:28:11] INFO value=c, rtn=c
+[2019/08/18 14:28:11] INFO value=i, rtn=i
+[2019/08/18 14:28:12] INFO value=g, rtn=g
+[2019/08/18 14:28:12] INFO value=a, rtn=a
+[2019/08/18 14:28:12] INFO value=r, rtn=r
+[2019/08/18 14:28:12] INFO value=e, rtn=e
+[2019/08/18 14:28:13] INFO value=t, rtn=t
+[2019/08/18 14:28:13] INFO value=t, rtn=t
+[2019/08/18 14:28:13] INFO value=e, rtn=e
+[2019/08/18 14:28:13] INFO value=Space, rtn= 
+[2019/08/18 14:28:14] INFO value=p, rtn=p
+[2019/08/18 14:28:14] INFO value=a, rtn=a
+[2019/08/18 14:28:14] INFO value=c, rtn=c
+[2019/08/18 14:28:14] INFO value=k, rtn=k
+[2019/08/18 14:28:15] INFO value=Space, rtn= 
+[2019/08/18 14:28:15] INFO value=f, rtn=f
+[2019/08/18 14:28:16] INFO value=r, rtn=r
+[2019/08/18 14:28:16] INFO value=o, rtn=o
+[2019/08/18 14:28:16] INFO value=m, rtn=m
+[2019/08/18 14:28:16] INFO value=Space, rtn= 
+[2019/08/18 14:28:17] INFO value=h, rtn=h
+[2019/08/18 14:28:17] INFO value=i, rtn=i
+[2019/08/18 14:28:17] INFO value=s, rtn=s
+[2019/08/18 14:28:17] INFO value=Space, rtn= 
+[2019/08/18 14:28:17] INFO value=p, rtn=p
+[2019/08/18 14:28:17] INFO value=o, rtn=o
+[2019/08/18 14:28:18] INFO value=c, rtn=c
+[2019/08/18 14:28:18] INFO value=k, rtn=k
+[2019/08/18 14:28:18] INFO value=e, rtn=e
+[2019/08/18 14:28:18] INFO value=t, rtn=t
+[2019/08/18 14:28:19] INFO value=,, rtn=,
+[2019/08/18 14:28:19] INFO value=Space, rtn= 
+[2019/08/18 14:28:19] INFO value=a, rtn=a
+[2019/08/18 14:28:19] INFO value=n, rtn=n
+[2019/08/18 14:28:20] INFO value=d, rtn=d
+[2019/08/18 14:28:20] INFO value=Space, rtn= 
+[2019/08/18 14:28:20] INFO value=s, rtn=s
+[2019/08/18 14:28:21] INFO value=i, rtn=i
+[2019/08/18 14:28:21] INFO value=d, rtn=d
+[2019/08/18 14:28:21] INFO value=Space, rtn= 
+[2019/08/18 14:28:21] INFO value=,, rtn=,
+[2019/08/18 14:28:22] INFO value=Space, rtn= 
+[2019/08/18 14:28:23] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:23] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:23] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:24] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:24] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:24] INFO value=a, rtn=a
+[2019/08/18 14:28:25] INFO value=i, rtn=i
+[2019/08/18 14:28:25] INFO value=d, rtn=d
+[2019/08/18 14:28:25] INFO value=,, rtn=,
+[2019/08/18 14:28:25] INFO value=Space, rtn= 
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:27] INFO value=Shift + 2, rtn="
+[2019/08/18 14:28:28] INFO value=, rtn=
+[2019/08/18 14:28:28] INFO value=, rtn=
+[2019/08/18 14:28:28] INFO value=Shift + 2, Left, rtn=Shift + 2, Left
+[2019/08/18 14:28:28] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:28] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:28] INFO value=Shift + y, rtn=Shift + y
+[2019/08/18 14:28:29] INFO value=o, rtn=o
+[2019/08/18 14:28:29] INFO value=u, rtn=u
+[2019/08/18 14:28:29] INFO value=Space, rtn= 
+[2019/08/18 14:28:30] INFO value=f, rtn=f
+[2019/08/18 14:28:30] INFO value=i, rtn=i
+[2019/08/18 14:28:30] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:31] INFO value=a, rtn=a
+[2019/08/18 14:28:31] INFO value=i, rtn=i
+[2019/08/18 14:28:31] INFO value=l, rtn=l
+[2019/08/18 14:28:31] INFO value=d, rtn=d
+[2019/08/18 14:28:32] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:32] INFO value=e, rtn=e
+[2019/08/18 14:28:32] INFO value=d, rtn=d
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:34] INFO value=Shift + 2, rtn="
+[2019/08/18 14:28:35] INFO value=Left, rtn=Left
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:37] INFO value=Shift + 1, rtn=!
+[2019/08/18 14:28:37] INFO value=Shift + 1, rtn=!
+[2019/08/18 14:28:38] INFO value=End, rtn=End
+[2019/08/18 14:28:38] INFO value=Enter, rtn=Enter
+[2019/08/18 14:28:38] INFO value=Enter, rtn=Enter
+[2019/08/18 14:28:39] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:28:39] INFO value=Space, rtn= 
+[2019/08/18 14:28:39] INFO value=Space, rtn= 
+[2019/08/18 14:28:43] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:43] INFO value=Shift, rtn=Shift
+[2019/08/18 14:28:50] INFO line=2019/08/18 14:28	9964	83	0	10	36	fore to quit smoking approched me, pullde,BackSpace,BackSpace,ed,a,End, a cigarette pack from his pocket, and sid , ,BackSpace,BackSpace,BackSpace,BackSpace,BackSpace,aid, ,",Shift + 2, Left,Shift + y,ou fi,BackSpace,aild,BackSpace,ed,",!!,End,Enter,Enter,BackSpace,  
+[2019/08/18 14:28:56] INFO value=LButton, rtn=LButton
+[2019/08/18 14:28:58] INFO value=LButton, rtn=LButton
+[2019/08/18 14:29:00] INFO value=Right, rtn=Right
+[2019/08/18 14:29:16] INFO value=Space, rtn= 
+[2019/08/18 14:29:16] INFO value=Space, rtn= 
+[2019/08/18 14:29:17] INFO value=Space, rtn= 
+[2019/08/18 14:29:17] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:17] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:18] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:18] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:18] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:19] INFO value=Left, rtn=Left
+[2019/08/18 14:29:19] INFO value=Left, rtn=Left
+[2019/08/18 14:29:19] INFO value=Left, rtn=Left
+[2019/08/18 14:29:20] INFO value=Left, rtn=Left
+[2019/08/18 14:29:20] INFO value=Left, rtn=Left
+[2019/08/18 14:29:21] INFO value=Right, rtn=Right
+[2019/08/18 14:29:21] INFO value=Right, rtn=Right
+[2019/08/18 14:29:22] INFO value=Right, rtn=Right
+[2019/08/18 14:29:22] INFO value=Right, rtn=Right
+[2019/08/18 14:29:26] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:26] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:27] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:27] INFO value=Shift + 2, rtn="
+[2019/08/18 14:29:27] INFO value=Shift + 2, rtn="
+[2019/08/18 14:29:28] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:28] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:28] INFO value=Shift + a, rtn=Shift + a
+[2019/08/18 14:29:28] INFO value=f, rtn=f
+[2019/08/18 14:29:29] INFO value=t, rtn=t
+[2019/08/18 14:29:29] INFO value=e, rtn=e
+[2019/08/18 14:29:29] INFO value=r, rtn=r
+[2019/08/18 14:29:29] INFO value=Space, rtn= 
+[2019/08/18 14:29:29] INFO value=o, rtn=o
+[2019/08/18 14:29:29] INFO value=u, rtn=u
+[2019/08/18 14:29:30] INFO value=r, rtn=r
+[2019/08/18 14:29:30] INFO value=Space, rtn= 
+[2019/08/18 14:29:30] INFO value=s, rtn=s
+[2019/08/18 14:29:30] INFO value=e, rtn=e
+[2019/08/18 14:29:31] INFO value=s, rtn=s
+[2019/08/18 14:29:31] INFO value=s, rtn=s
+[2019/08/18 14:29:31] INFO value=i, rtn=i
+[2019/08/18 14:29:31] INFO value=o, rtn=o
+[2019/08/18 14:29:31] INFO value=n, rtn=n
+[2019/08/18 14:29:32] INFO value=,, rtn=,
+[2019/08/18 14:29:32] INFO value=Space, rtn= 
+[2019/08/18 14:29:32] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:32] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:32] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:29:32] INFO value=Space, rtn= 
+[2019/08/18 14:29:33] INFO value=d, rtn=d
+[2019/08/18 14:29:33] INFO value=i, rtn=i
+[2019/08/18 14:29:33] INFO value=d, rtn=d
+[2019/08/18 14:29:34] INFO value=n, rtn=n
+[2019/08/18 14:29:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:34] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:34] INFO value=Shift + 7, rtn='
+[2019/08/18 14:29:35] INFO value=t, rtn=t
+[2019/08/18 14:29:35] INFO value=Space, rtn= 
+[2019/08/18 14:29:38] INFO value=s, rtn=s
+[2019/08/18 14:29:38] INFO value=o, rtn=o
+[2019/08/18 14:29:38] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:29:39] INFO value=m, rtn=m
+[2019/08/18 14:29:39] INFO value=o, rtn=o
+[2019/08/18 14:29:39] INFO value=k, rtn=k
+[2019/08/18 14:29:39] INFO value=e, rtn=e
+[2019/08/18 14:29:39] INFO value=Space, rtn= 
+[2019/08/18 14:29:41] INFO value=f, rtn=f
+[2019/08/18 14:29:41] INFO value=o, rtn=o
+[2019/08/18 14:29:41] INFO value=r, rtn=r
+[2019/08/18 14:29:42] INFO value=Space, rtn= 
+[2019/08/18 14:29:42] INFO value=t, rtn=t
+[2019/08/18 14:29:42] INFO value=w, rtn=w
+[2019/08/18 14:29:43] INFO value=o, rtn=o
+[2019/08/18 14:29:43] INFO value=Space, rtn= 
+[2019/08/18 14:29:43] INFO value=a, rtn=a
+[2019/08/18 14:29:43] INFO value=n, rtn=n
+[2019/08/18 14:29:43] INFO value=d, rtn=d
+[2019/08/18 14:29:43] INFO value=Space, rtn= 
+[2019/08/18 14:29:44] INFO value=a, rtn=a
+[2019/08/18 14:29:44] INFO value=Space, rtn= 
+[2019/08/18 14:29:45] INFO value=h, rtn=h
+[2019/08/18 14:29:45] INFO value=a, rtn=a
+[2019/08/18 14:29:45] INFO value=l, rtn=l
+[2019/08/18 14:29:46] INFO value=f, rtn=f
+[2019/08/18 14:29:46] INFO value=Space, rtn= 
+[2019/08/18 14:29:46] INFO value=y, rtn=y
+[2019/08/18 14:29:46] INFO value=e, rtn=e
+[2019/08/18 14:29:47] INFO value=a, rtn=a
+[2019/08/18 14:29:47] INFO value=r, rtn=r
+[2019/08/18 14:29:47] INFO value=s, rtn=s
+[2019/08/18 14:29:48] INFO value=,, rtn=,
+[2019/08/18 14:29:48] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:29:48] INFO value=., rtn=.
+[2019/08/18 14:29:49] INFO value=Space, rtn= 
+[2019/08/18 14:29:49] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:49] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:49] INFO value=Shift + b, rtn=Shift + b
+[2019/08/18 14:29:49] INFO line=2019/08/18 14:29	9964	44	0	6	22	LButton,LButton,   ,"",Shift + a,fter our session, ,Shift + i, didn,'t so,BackSpace,moke for two and a half years,,BackSpace,. ,Shift + b
+[2019/08/18 14:29:49] INFO value=u, rtn=u
+[2019/08/18 14:29:49] INFO value=t, rtn=t
+[2019/08/18 14:29:51] INFO value=Space, rtn= 
+[2019/08/18 14:29:51] INFO value=t, rtn=t
+[2019/08/18 14:29:51] INFO value=h, rtn=h
+[2019/08/18 14:29:52] INFO value=e, rtn=e
+[2019/08/18 14:29:52] INFO value=n, rtn=n
+[2019/08/18 14:29:52] INFO value=Space, rtn= 
+[2019/08/18 14:29:53] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:53] INFO value=Shift, rtn=Shift
+[2019/08/18 14:29:53] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:29:58] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:29:58] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:29:58] INFO value=o, rtn=o
+[2019/08/18 14:29:59] INFO value=n, rtn=n
+[2019/08/18 14:29:59] INFO value=e, rtn=e
+[2019/08/18 14:29:59] INFO value=Space, rtn= 
+[2019/08/18 14:29:59] INFO value=d, rtn=d
+[2019/08/18 14:29:59] INFO value=a, rtn=a
+[2019/08/18 14:29:59] INFO value=y, rtn=y
+[2019/08/18 14:29:59] INFO value=Space, rtn= 
+[2019/08/18 14:30:00] INFO value=Left, rtn=Left
+[2019/08/18 14:30:01] INFO value=Left, rtn=Left
+[2019/08/18 14:30:01] INFO value=Left, rtn=Left
+[2019/08/18 14:30:01] INFO value=Left, rtn=Left
+[2019/08/18 14:30:01] INFO value=Left, rtn=Left
+[2019/08/18 14:30:01] INFO value=Left, rtn=Left
+[2019/08/18 14:30:02] INFO value=Left, rtn=Left
+[2019/08/18 14:30:02] INFO value=Space, rtn= 
+[2019/08/18 14:30:02] INFO value=End, rtn=End
+[2019/08/18 14:30:08] INFO value=w, rtn=w
+[2019/08/18 14:30:09] INFO value=h, rtn=h
+[2019/08/18 14:30:09] INFO value=e, rtn=e
+[2019/08/18 14:30:09] INFO value=n, rtn=n
+[2019/08/18 14:30:10] INFO value=Space, rtn= 
+[2019/08/18 14:30:10] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:10] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:10] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:30:10] INFO value=Space, rtn= 
+[2019/08/18 14:30:10] INFO value=g, rtn=g
+[2019/08/18 14:30:10] INFO value=o, rtn=o
+[2019/08/18 14:30:11] INFO value=t, rtn=t
+[2019/08/18 14:30:11] INFO value=Space, rtn= 
+[2019/08/18 14:30:11] INFO value=s, rtn=s
+[2019/08/18 14:30:11] INFO value=t, rtn=t
+[2019/08/18 14:30:12] INFO value=r, rtn=r
+[2019/08/18 14:30:12] INFO value=e, rtn=e
+[2019/08/18 14:30:12] INFO value=s, rtn=s
+[2019/08/18 14:30:12] INFO value=s, rtn=s
+[2019/08/18 14:30:13] INFO value=e, rtn=e
+[2019/08/18 14:30:13] INFO value=d, rtn=d
+[2019/08/18 14:30:13] INFO value=,, rtn=,
+[2019/08/18 14:30:13] INFO value=Space, rtn= 
+[2019/08/18 14:30:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:14] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:14] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:30:14] INFO value=Space, rtn= 
+[2019/08/18 14:30:15] INFO value=l, rtn=l
+[2019/08/18 14:30:15] INFO value=i, rtn=i
+[2019/08/18 14:30:15] INFO value=t, rtn=t
+[2019/08/18 14:30:15] INFO value=Space, rtn= 
+[2019/08/18 14:30:15] INFO value=u, rtn=u
+[2019/08/18 14:30:16] INFO value=p, rtn=p
+[2019/08/18 14:30:16] INFO value=,, rtn=,
+[2019/08/18 14:30:16] INFO value=Space, rtn= 
+[2019/08/18 14:30:16] INFO value=a, rtn=a
+[2019/08/18 14:30:16] INFO value=n, rtn=n
+[2019/08/18 14:30:17] INFO value=d, rtn=d
+[2019/08/18 14:30:17] INFO value=Space, rtn= 
+[2019/08/18 14:30:17] INFO value=, rtn=
+[2019/08/18 14:30:17] INFO value=, rtn=
+[2019/08/18 14:30:17] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:30:18] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:18] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:18] INFO value=Shift + 7, rtn='
+[2019/08/18 14:30:18] INFO value=v, rtn=v
+[2019/08/18 14:30:18] INFO value=e, rtn=e
+[2019/08/18 14:30:18] INFO value=Space, rtn= 
+[2019/08/18 14:30:24] INFO value=b, rtn=b
+[2019/08/18 14:30:24] INFO value=e, rtn=e
+[2019/08/18 14:30:24] INFO value=e, rtn=e
+[2019/08/18 14:30:24] INFO value=n, rtn=n
+[2019/08/18 14:30:24] INFO value=Space, rtn= 
+[2019/08/18 14:30:25] INFO value=s, rtn=s
+[2019/08/18 14:30:25] INFO value=m, rtn=m
+[2019/08/18 14:30:25] INFO value=o, rtn=o
+[2019/08/18 14:30:26] INFO value=k, rtn=k
+[2019/08/18 14:30:26] INFO value=i, rtn=i
+[2019/08/18 14:30:26] INFO value=n, rtn=n
+[2019/08/18 14:30:26] INFO value=g, rtn=g
+[2019/08/18 14:30:27] INFO value=Space, rtn= 
+[2019/08/18 14:30:27] INFO value=e, rtn=e
+[2019/08/18 14:30:27] INFO value=v, rtn=v
+[2019/08/18 14:30:27] INFO value=e, rtn=e
+[2019/08/18 14:30:27] INFO value=r, rtn=r
+[2019/08/18 14:30:28] INFO value=Space, rtn= 
+[2019/08/18 14:30:29] INFO value=s, rtn=s
+[2019/08/18 14:30:29] INFO value=i, rtn=i
+[2019/08/18 14:30:29] INFO value=n, rtn=n
+[2019/08/18 14:30:30] INFO value=c, rtn=c
+[2019/08/18 14:30:30] INFO value=e, rtn=e
+[2019/08/18 14:30:31] INFO value=., rtn=.
+[2019/08/18 14:30:33] INFO value=Space, rtn= 
+[2019/08/18 14:30:33] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:33] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:34] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:30:34] INFO value=t, rtn=t
+[2019/08/18 14:30:35] INFO value=, rtn=
+[2019/08/18 14:30:35] INFO value=, rtn=
+[2019/08/18 14:30:35] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:35] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:35] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:35] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:35] INFO value=Shift + 7, rtn='
+[2019/08/18 14:30:35] INFO value=Shift + 7, rtn='
+[2019/08/18 14:30:35] INFO value=s, rtn=s
+[2019/08/18 14:30:36] INFO value=Space, rtn= 
+[2019/08/18 14:30:36] INFO value=a, rtn=a
+[2019/08/18 14:30:36] INFO value=l, rtn=l
+[2019/08/18 14:30:36] INFO value=l, rtn=l
+[2019/08/18 14:30:36] INFO value=Space, rtn= 
+[2019/08/18 14:30:37] INFO value=y, rtn=y
+[2019/08/18 14:30:37] INFO value=o, rtn=o
+[2019/08/18 14:30:37] INFO value=u, rtn=u
+[2019/08/18 14:30:37] INFO value=r, rtn=r
+[2019/08/18 14:30:37] INFO value=Space, rtn= 
+[2019/08/18 14:30:38] INFO value=f, rtn=f
+[2019/08/18 14:30:39] INFO value=a, rtn=a
+[2019/08/18 14:30:39] INFO value=u, rtn=u
+[2019/08/18 14:30:39] INFO value=l, rtn=l
+[2019/08/18 14:30:40] INFO value=t, rtn=t
+[2019/08/18 14:30:40] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:40] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:40] INFO value=Shift + 1, rtn=!
+[2019/08/18 14:30:41] INFO value=Space, rtn= 
+[2019/08/18 14:30:41] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:41] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:41] INFO value=Shift + y, rtn=Shift + y
+[2019/08/18 14:30:42] INFO value=o, rtn=o
+[2019/08/18 14:30:42] INFO value=u, rtn=u
+[2019/08/18 14:30:42] INFO value=Space, rtn= 
+[2019/08/18 14:30:42] INFO value=d, rtn=d
+[2019/08/18 14:30:43] INFO value=i, rtn=i
+[2019/08/18 14:30:43] INFO value=d, rtn=d
+[2019/08/18 14:30:44] INFO value=n, rtn=n
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:45] INFO value=Shift + 7, rtn='
+[2019/08/18 14:30:45] INFO value=Shift + 7, rtn='
+[2019/08/18 14:30:45] INFO value=t, rtn=t
+[2019/08/18 14:30:46] INFO value=Space, rtn= 
+[2019/08/18 14:30:49] INFO line=2019/08/18 14:30	9964	78	0	13	33	ut then ,Shift + i,BackSpace,BackSpace,one day , ,End,when ,Shift + i, got stressed, ,Shift + i, lit up, and ,Shift + i,'ve been smoking ever since. ,Shift + i,t,''s all your fault,! ,Shift + y,ou didn
+[2019/08/18 14:30:51] INFO value=p, rtn=p
+[2019/08/18 14:30:51] INFO value=r, rtn=r
+[2019/08/18 14:30:52] INFO value=o, rtn=o
+[2019/08/18 14:30:52] INFO value=g, rtn=g
+[2019/08/18 14:30:52] INFO value=r, rtn=r
+[2019/08/18 14:30:53] INFO value=a, rtn=a
+[2019/08/18 14:30:53] INFO value=m, rtn=m
+[2019/08/18 14:30:53] INFO value=Space, rtn= 
+[2019/08/18 14:30:53] INFO value=m, rtn=m
+[2019/08/18 14:30:53] INFO value=e, rtn=e
+[2019/08/18 14:30:53] INFO value=Space, rtn= 
+[2019/08/18 14:30:54] INFO value=p, rtn=p
+[2019/08/18 14:30:55] INFO value=r, rtn=r
+[2019/08/18 14:30:55] INFO value=o, rtn=o
+[2019/08/18 14:30:55] INFO value=p, rtn=p
+[2019/08/18 14:30:55] INFO value=e, rtn=e
+[2019/08/18 14:30:55] INFO value=r, rtn=r
+[2019/08/18 14:30:56] INFO value=l, rtn=l
+[2019/08/18 14:30:56] INFO value=y, rtn=y
+[2019/08/18 14:30:56] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:56] INFO value=Shift, rtn=Shift
+[2019/08/18 14:30:57] INFO value=Shift + 1, rtn=!
+[2019/08/18 14:30:59] INFO value=Shift + 2, rtn="
+[2019/08/18 14:30:59] INFO value=Enter, rtn=Enter
+[2019/08/18 14:31:09] INFO value=LButton, rtn=LButton
+[2019/08/18 14:31:10] INFO value=LButton, rtn=LButton
+[2019/08/18 14:31:19] INFO value=LButton, rtn=LButton
+[2019/08/18 14:31:20] INFO value=LButton, rtn=LButton
+[2019/08/18 14:31:22] INFO value=Space, rtn= 
+[2019/08/18 14:31:23] INFO value=Space, rtn= 
+[2019/08/18 14:31:23] INFO value=Space, rtn= 
+[2019/08/18 14:31:23] INFO value=Space, rtn= 
+[2019/08/18 14:31:24] INFO value=, rtn=
+[2019/08/18 14:31:24] INFO value=, rtn=
+[2019/08/18 14:31:24] INFO value=Shift + a, rtn=Shift + a
+[2019/08/18 14:31:24] INFO value=l, rtn=l
+[2019/08/18 14:31:25] INFO value=t, rtn=t
+[2019/08/18 14:31:25] INFO value=h, rtn=h
+[2019/08/18 14:31:25] INFO value=o, rtn=o
+[2019/08/18 14:31:26] INFO value=u, rtn=u
+[2019/08/18 14:31:26] INFO value=g, rtn=g
+[2019/08/18 14:31:26] INFO value=h, rtn=h
+[2019/08/18 14:31:27] INFO value=Space, rtn= 
+[2019/08/18 14:31:29] INFO value=h, rtn=h
+[2019/08/18 14:31:29] INFO value=i, rtn=i
+[2019/08/18 14:31:29] INFO value=s, rtn=s
+[2019/08/18 14:31:29] INFO value=Space, rtn= 
+[2019/08/18 14:31:29] INFO value=c, rtn=c
+[2019/08/18 14:31:29] INFO value=o, rtn=o
+[2019/08/18 14:31:30] INFO value=m, rtn=m
+[2019/08/18 14:31:30] INFO value=m, rtn=m
+[2019/08/18 14:31:30] INFO value=u, rtn=u
+[2019/08/18 14:31:30] INFO value=n, rtn=n
+[2019/08/18 14:31:30] INFO value=i, rtn=i
+[2019/08/18 14:31:31] INFO value=a, rtn=a
+[2019/08/18 14:31:31] INFO value=t, rtn=t
+[2019/08/18 14:31:31] INFO value=i, rtn=i
+[2019/08/18 14:31:31] INFO value=o, rtn=o
+[2019/08/18 14:31:31] INFO value=n, rtn=n
+[2019/08/18 14:31:31] INFO value=Space, rtn= 
+[2019/08/18 14:31:31] INFO value=w, rtn=w
+[2019/08/18 14:31:32] INFO value=a, rtn=a
+[2019/08/18 14:31:32] INFO value=s, rtn=s
+[2019/08/18 14:31:32] INFO value=Space, rtn= 
+[2019/08/18 14:31:33] INFO value=l, rtn=l
+[2019/08/18 14:31:33] INFO value=e, rtn=e
+[2019/08/18 14:31:33] INFO value=e, rtn=e
+[2019/08/18 14:31:33] INFO value=s, rtn=s
+[2019/08/18 14:31:33] INFO value=s, rtn=s
+[2019/08/18 14:31:34] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:31:34] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:31:34] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:31:34] INFO value=s, rtn=s
+[2019/08/18 14:31:35] INFO value=s, rtn=s
+[2019/08/18 14:31:35] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:36] INFO value=Left, rtn=Left
+[2019/08/18 14:31:37] INFO value=Left, rtn=Left
+[2019/08/18 14:31:38] INFO value=Left, rtn=Left
+[2019/08/18 14:31:38] INFO value=Left, rtn=Left
+[2019/08/18 14:31:38] INFO value=c, rtn=c
+[2019/08/18 14:31:39] INFO value=End, rtn=End
+[2019/08/18 14:31:40] INFO value=Space, rtn= 
+[2019/08/18 14:31:42] INFO value=t, rtn=t
+[2019/08/18 14:31:42] INFO value=h, rtn=h
+[2019/08/18 14:31:42] INFO value=a, rtn=a
+[2019/08/18 14:31:43] INFO value=n, rtn=n
+[2019/08/18 14:31:44] INFO value=Space, rtn= 
+[2019/08/18 14:31:46] INFO value=e, rtn=e
+[2019/08/18 14:31:47] INFO value=l, rtn=l
+[2019/08/18 14:31:47] INFO value=e, rtn=e
+[2019/08/18 14:31:47] INFO value=g, rtn=g
+[2019/08/18 14:31:48] INFO value=r, rtn=r
+[2019/08/18 14:31:48] INFO value=a, rtn=a
+[2019/08/18 14:31:48] INFO line=2019/08/18 14:31	9964	60	0	4	22	program me properly,!",Enter,LButton,LButton,LButton,LButton,    ,Shift + a,lthough his communiation was leess,BackSpace,BackSpace,BackSpace,ss,c,End
+[2019/08/18 14:31:49] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:31:49] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:31:50] INFO value=a, rtn=a
+[2019/08/18 14:31:50] INFO value=n, rtn=n
+[2019/08/18 14:31:50] INFO value=t, rtn=t
+[2019/08/18 14:31:51] INFO value=,, rtn=,
+[2019/08/18 14:31:51] INFO value=Space, rtn= 
+[2019/08/18 14:31:52] INFO value=t, rtn=t
+[2019/08/18 14:31:52] INFO value=h, rtn=h
+[2019/08/18 14:31:52] INFO value=i, rtn=i
+[2019/08/18 14:31:52] INFO value=s, rtn=s
+[2019/08/18 14:31:52] INFO value=Space, rtn= 
+[2019/08/18 14:31:53] INFO value=m, rtn=m
+[2019/08/18 14:31:53] INFO value=a, rtn=a
+[2019/08/18 14:31:53] INFO value=n, rtn=n
+[2019/08/18 14:31:53] INFO value=Space, rtn= 
+[2019/08/18 14:31:54] INFO value=g, rtn=g
+[2019/08/18 14:31:54] INFO value=a, rtn=a
+[2019/08/18 14:31:54] INFO value=v, rtn=v
+[2019/08/18 14:31:54] INFO value=e, rtn=e
+[2019/08/18 14:31:54] INFO value=Space, rtn= 
+[2019/08/18 14:31:54] INFO value=m, rtn=m
+[2019/08/18 14:31:55] INFO value=e, rtn=e
+[2019/08/18 14:31:55] INFO value=Space, rtn= 
+[2019/08/18 14:31:55] INFO value=a, rtn=a
+[2019/08/18 14:31:56] INFO value=n, rtn=n
+[2019/08/18 14:31:56] INFO value=Space, rtn= 
+[2019/08/18 14:31:56] INFO value=i, rtn=i
+[2019/08/18 14:31:57] INFO value=n, rtn=n
+[2019/08/18 14:31:57] INFO value=c, rtn=c
+[2019/08/18 14:31:57] INFO value=r, rtn=r
+[2019/08/18 14:31:58] INFO value=e, rtn=e
+[2019/08/18 14:31:58] INFO value=d, rtn=d
+[2019/08/18 14:31:58] INFO value=i, rtn=i
+[2019/08/18 14:31:58] INFO value=b, rtn=b
+[2019/08/18 14:31:59] INFO value=l, rtn=l
+[2019/08/18 14:31:59] INFO value=e, rtn=e
+[2019/08/18 14:31:59] INFO value=Space, rtn= 
+[2019/08/18 14:31:59] INFO value=g, rtn=g
+[2019/08/18 14:31:59] INFO value=i, rtn=i
+[2019/08/18 14:31:59] INFO value=t, rtn=t
+[2019/08/18 14:32:00] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:32:00] INFO value=f, rtn=f
+[2019/08/18 14:32:00] INFO value=t, rtn=t
+[2019/08/18 14:32:01] INFO value=,, rtn=,
+[2019/08/18 14:32:01] INFO value=Space, rtn= 
+[2019/08/18 14:32:04] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:04] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:04] INFO value=Shift + h, rtn=Shift + h
+[2019/08/18 14:32:04] INFO value=e, rtn=e
+[2019/08/18 14:32:04] INFO value=Space, rtn= 
+[2019/08/18 14:32:05] INFO value=r, rtn=r
+[2019/08/18 14:32:05] INFO value=e, rtn=e
+[2019/08/18 14:32:05] INFO value=m, rtn=m
+[2019/08/18 14:32:07] INFO value=i, rtn=i
+[2019/08/18 14:32:07] INFO value=n, rtn=n
+[2019/08/18 14:32:07] INFO value=d, rtn=d
+[2019/08/18 14:32:07] INFO value=e, rtn=e
+[2019/08/18 14:32:08] INFO value=d, rtn=d
+[2019/08/18 14:32:08] INFO value=e, rtn=e
+[2019/08/18 14:32:09] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:32:09] INFO value=Space, rtn= 
+[2019/08/18 14:32:09] INFO value=m, rtn=m
+[2019/08/18 14:32:09] INFO value=e, rtn=e
+[2019/08/18 14:32:09] INFO value=Space, rtn= 
+[2019/08/18 14:32:11] INFO value=t, rtn=t
+[2019/08/18 14:32:11] INFO value=h, rtn=h
+[2019/08/18 14:32:11] INFO value=a, rtn=a
+[2019/08/18 14:32:11] INFO value=t, rtn=t
+[2019/08/18 14:32:11] INFO value=Space, rtn= 
+[2019/08/18 14:32:12] INFO value=w, rtn=w
+[2019/08/18 14:32:12] INFO value=e, rtn=e
+[2019/08/18 14:32:12] INFO value=Space, rtn= 
+[2019/08/18 14:32:13] INFO value=m, rtn=m
+[2019/08/18 14:32:13] INFO value=u, rtn=u
+[2019/08/18 14:32:14] INFO value=s, rtn=s
+[2019/08/18 14:32:14] INFO value=t, rtn=t
+[2019/08/18 14:32:14] INFO value=Space, rtn= 
+[2019/08/18 14:32:15] INFO value=t, rtn=t
+[2019/08/18 14:32:15] INFO value=a, rtn=a
+[2019/08/18 14:32:15] INFO value=k, rtn=k
+[2019/08/18 14:32:15] INFO value=e, rtn=e
+[2019/08/18 14:32:16] INFO value=Space, rtn= 
+[2019/08/18 14:32:16] INFO value=p, rtn=p
+[2019/08/18 14:32:16] INFO value=e, rtn=e
+[2019/08/18 14:32:16] INFO value=r, rtn=r
+[2019/08/18 14:32:17] INFO value=s, rtn=s
+[2019/08/18 14:32:17] INFO value=o, rtn=o
+[2019/08/18 14:32:17] INFO value=n, rtn=n
+[2019/08/18 14:32:17] INFO value=a, rtn=a
+[2019/08/18 14:32:17] INFO value=l, rtn=l
+[2019/08/18 14:32:18] INFO value=Space, rtn= 
+[2019/08/18 14:32:18] INFO value=r, rtn=r
+[2019/08/18 14:32:19] INFO value=e, rtn=e
+[2019/08/18 14:32:19] INFO value=s, rtn=s
+[2019/08/18 14:32:19] INFO value=p, rtn=p
+[2019/08/18 14:32:19] INFO value=o, rtn=o
+[2019/08/18 14:32:20] INFO value=n, rtn=n
+[2019/08/18 14:32:20] INFO value=s, rtn=s
+[2019/08/18 14:32:20] INFO value=i, rtn=i
+[2019/08/18 14:32:20] INFO value=b, rtn=b
+[2019/08/18 14:32:21] INFO value=i, rtn=i
+[2019/08/18 14:32:21] INFO value=l, rtn=l
+[2019/08/18 14:32:21] INFO value=i, rtn=i
+[2019/08/18 14:32:22] INFO value=t, rtn=t
+[2019/08/18 14:32:22] INFO value=y, rtn=y
+[2019/08/18 14:32:22] INFO value=Space, rtn= 
+[2019/08/18 14:32:22] INFO value=f, rtn=f
+[2019/08/18 14:32:22] INFO value=o, rtn=o
+[2019/08/18 14:32:23] INFO value=r, rtn=r
+[2019/08/18 14:32:23] INFO value=Space, rtn= 
+[2019/08/18 14:32:23] INFO value=o, rtn=o
+[2019/08/18 14:32:23] INFO value=u, rtn=u
+[2019/08/18 14:32:23] INFO value=r, rtn=r
+[2019/08/18 14:32:24] INFO value=Space, rtn= 
+[2019/08/18 14:32:24] INFO value=c, rtn=c
+[2019/08/18 14:32:24] INFO value=h, rtn=h
+[2019/08/18 14:32:24] INFO value=a, rtn=a
+[2019/08/18 14:32:24] INFO value=n, rtn=n
+[2019/08/18 14:32:25] INFO value=g, rtn=g
+[2019/08/18 14:32:25] INFO value=e, rtn=e
+[2019/08/18 14:32:26] INFO value=., rtn=.
+[2019/08/18 14:32:26] INFO value=Space, rtn= 
+[2019/08/18 14:32:26] INFO value=, rtn=
+[2019/08/18 14:32:26] INFO value=, rtn=
+[2019/08/18 14:32:26] INFO value=Shift + n, rtn=Shift + n
+[2019/08/18 14:32:27] INFO value=o, rtn=o
+[2019/08/18 14:32:27] INFO value=Space, rtn= 
+[2019/08/18 14:32:27] INFO value=o, rtn=o
+[2019/08/18 14:32:28] INFO value=n, rtn=n
+[2019/08/18 14:32:28] INFO value=e, rtn=e
+[2019/08/18 14:32:28] INFO value=Space, rtn= 
+[2019/08/18 14:32:29] INFO value=c, rtn=c
+[2019/08/18 14:32:29] INFO value=a, rtn=a
+[2019/08/18 14:32:29] INFO value=n, rtn=n
+[2019/08/18 14:32:30] INFO value=Space, rtn= 
+[2019/08/18 14:32:30] INFO value=, rtn=
+[2019/08/18 14:32:30] INFO value=, rtn=
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:30] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:31] INFO value=Shift + 2, rtn="
+[2019/08/18 14:32:31] INFO value=Shift + 2, rtn="
+[2019/08/18 14:32:31] INFO value=Shift + 2, 2, rtn=Shift + 2, 2
+[2019/08/18 14:32:31] INFO value=Shift + 2, Left, rtn=Shift + 2, Left
+[2019/08/18 14:32:32] INFO value=p, rtn=p
+[2019/08/18 14:32:33] INFO value=r, rtn=r
+[2019/08/18 14:32:33] INFO value=o, rtn=o
+[2019/08/18 14:32:33] INFO value=g, rtn=g
+[2019/08/18 14:32:33] INFO value=u, rtn=u
+[2019/08/18 14:32:33] INFO value=r, rtn=r
+[2019/08/18 14:32:33] INFO value=a, rtn=a
+[2019/08/18 14:32:33] INFO value=m, rtn=m
+[2019/08/18 14:32:34] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:32:34] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:32:35] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:32:35] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 14:32:35] INFO value=r, rtn=r
+[2019/08/18 14:32:35] INFO value=a, rtn=a
+[2019/08/18 14:32:35] INFO value=m, rtn=m
+[2019/08/18 14:32:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:36] INFO value=Shift, rtn=Shift
+[2019/08/18 14:32:36] INFO value=Shift + 2, rtn="
+[2019/08/18 14:32:36] INFO value=Space, rtn= 
+[2019/08/18 14:32:37] INFO value=y, rtn=y
+[2019/08/18 14:32:37] INFO value=o, rtn=o
+[2019/08/18 14:32:38] INFO value=u, rtn=u
+[2019/08/18 14:32:38] INFO value=., rtn=.
+[2019/08/18 14:32:38] INFO value=Space, rtn= 
+[2019/08/18 14:32:38] INFO value=, rtn=
+[2019/08/18 14:32:38] INFO value=, rtn=
+[2019/08/18 14:32:39] INFO value=Shift + y, rtn=Shift + y
+[2019/08/18 14:32:39] INFO value=o, rtn=o
+[2019/08/18 14:32:39] INFO value=u, rtn=u
+[2019/08/18 14:32:39] INFO value=Space, rtn= 
+[2019/08/18 14:32:39] INFO value=m, rtn=m
+[2019/08/18 14:32:40] INFO value=u, rtn=u
+[2019/08/18 14:32:40] INFO value=s, rtn=s
+[2019/08/18 14:32:40] INFO value=t, rtn=t
+[2019/08/18 14:32:40] INFO value=Space, rtn= 
+[2019/08/18 14:32:42] INFO value=c, rtn=c
+[2019/08/18 14:32:42] INFO value=o, rtn=o
+[2019/08/18 14:32:42] INFO value=n, rtn=n
+[2019/08/18 14:32:43] INFO value=d, rtn=d
+[2019/08/18 14:32:43] INFO value=i, rtn=i
+[2019/08/18 14:32:43] INFO value=t, rtn=t
+[2019/08/18 14:32:43] INFO value=i, rtn=i
+[2019/08/18 14:32:43] INFO value=o, rtn=o
+[2019/08/18 14:32:43] INFO value=n, rtn=n
+[2019/08/18 14:32:43] INFO value=Space, rtn= 
+[2019/08/18 14:32:44] INFO value=y, rtn=y
+[2019/08/18 14:32:44] INFO value=o, rtn=o
+[2019/08/18 14:32:44] INFO value=u, rtn=u
+[2019/08/18 14:32:44] INFO value=r, rtn=r
+[2019/08/18 14:32:44] INFO value=s, rtn=s
+[2019/08/18 14:32:45] INFO value=e, rtn=e
+[2019/08/18 14:32:45] INFO value=l, rtn=l
+[2019/08/18 14:32:45] INFO value=f, rtn=f
+[2019/08/18 14:32:45] INFO value=., rtn=.
+[2019/08/18 14:32:48] INFO line=2019/08/18 14:32	9964	137	0	14	41	BackSpace,BackSpace,ant, this man gave me an incredible git,BackSpace,ft, ,Shift + h,e remindede,BackSpace, me that we must take personal responsibility for our change. ,Shift + n,o one can ,"",Shift + 2, 2,Shift + 2, Left,proguram,BackSpace,BackSpace,BackSpace,BackSpace,ram," you. ,Shift + y
+[2019/08/18 14:32:57] INFO value=LButton, rtn=LButton
+[2019/08/18 14:32:57] INFO value=LButton, rtn=LButton
+[2019/08/18 14:33:41] INFO value=LButton, rtn=LButton
+[2019/08/18 14:33:48] INFO line=2019/08/18 14:33	12952	0	0	0	3	LButton,LButton,LButton
+[2019/08/18 14:33:50] INFO value=LButton, rtn=LButton
+[2019/08/18 14:33:52] INFO value=LButton, rtn=LButton
+[2019/08/18 14:44:24] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:44:24] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:44:24] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:44:40] INFO value=LButton, rtn=LButton
+[2019/08/18 14:44:49] INFO value=LButton, rtn=LButton
+[2019/08/18 14:44:53] INFO value=LButton, rtn=LButton
+[2019/08/18 14:44:54] INFO value=Shift, rtn=Shift
+[2019/08/18 14:44:54] INFO value=Shift, rtn=Shift
+[2019/08/18 14:44:54] INFO value=Shift + g, rtn=Shift + g
+[2019/08/18 14:44:59] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 14:45:01] INFO value=Shift + a, rtn=Shift + a
+[2019/08/18 14:45:01] INFO value=Shift + a, n, rtn=Shift + a, n
+[2019/08/18 14:45:01] INFO value=Shift + n, t, rtn=Shift + n, t
+[2019/08/18 14:45:03] INFO value=Shift + Space, rtn=Shift + Space
+[2019/08/18 14:45:04] INFO value=Shift + s, rtn=Shift + s
+[2019/08/18 14:45:04] INFO value=Shift + s, t, rtn=Shift + s, t
+[2019/08/18 14:45:04] INFO value=Shift + e, rtn=Shift + e
+[2019/08/18 14:45:04] INFO value=Shift + e, p, rtn=Shift + e, p
+[2019/08/18 14:45:24] INFO line=2019/08/18 14:45	9964	0	0	0	13	LButton,LButton,LButton,Shift + g,Shift + i,Shift + a,Shift + a, n,Shift + n, t,Shift + Space,Shift + s,Shift + s, t,Shift + e,Shift + e, p
+[2019/08/18 14:45:49] INFO value=Space, rtn= 
+[2019/08/18 14:45:51] INFO value=1, rtn=1
+[2019/08/18 14:45:51] INFO value=2, rtn=2
+[2019/08/18 14:45:51] INFO value=3, rtn=3
+[2019/08/18 14:45:57] INFO value=LButton, rtn=LButton
+[2019/08/18 14:46:01] INFO value=LButton, rtn=LButton
+[2019/08/18 14:46:02] INFO value=Tab, rtn=Tab
+[2019/08/18 14:46:23] INFO line=2019/08/18 14:46	1076	0	3	0	4	 123,LButton,LButton,Tab
+[2019/08/18 14:46:43] INFO value=LButton, rtn=LButton
+[2019/08/18 14:46:47] INFO value=LButton, rtn=LButton
+[2019/08/18 14:46:50] INFO value=LButton, rtn=LButton
+[2019/08/18 14:57:20] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:57:20] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:57:20] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:57:24] INFO value=LButton, rtn=LButton
+[2019/08/18 14:57:28] INFO value=Shift, rtn=Shift
+[2019/08/18 14:57:28] INFO value=Shift, rtn=Shift
+[2019/08/18 14:57:28] INFO line=2019/08/18 14:57	9964	1				LButton,
+[2019/08/18 14:59:42] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 14:59:42] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 14:59:42] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 14:59:51] INFO value=LButton, rtn=LButton
+[2019/08/18 14:59:58] INFO value=LButton, rtn=LButton
+[2019/08/18 15:00:00] INFO value=Space, rtn= 
+[2019/08/18 15:00:04] INFO value=LButton, rtn=LButton
+[2019/08/18 15:00:06] INFO value=, rtn=
+[2019/08/18 15:00:06] INFO value=, rtn=
+[2019/08/18 15:00:07] INFO value=Shift + 2, rtn="
+[2019/08/18 15:00:13] INFO value=Shift, rtn=Shift
+[2019/08/18 15:00:13] INFO value=Shift, rtn=Shift
+[2019/08/18 15:00:14] INFO line=2019/08/18 15:00	9964	5				LButton,LButton, ,LButton,",
+[2019/08/18 15:01:33] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:01:33] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:01:33] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:01:39] INFO value=LButton, rtn=LButton
+[2019/08/18 15:01:40] INFO value=LButton, rtn=LButton
+[2019/08/18 15:01:41] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:01:41] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:01:43] INFO value=c, rtn=c
+[2019/08/18 15:01:43] INFO value=h, rtn=h
+[2019/08/18 15:01:43] INFO value=a, rtn=a
+[2019/08/18 15:01:44] INFO value=n, rtn=n
+[2019/08/18 15:01:44] INFO value=g, rtn=g
+[2019/08/18 15:01:44] INFO value=e, rtn=e
+[2019/08/18 15:01:44] INFO value=Space, rtn= 
+[2019/08/18 15:01:46] INFO value=w, rtn=w
+[2019/08/18 15:01:47] INFO value=e, rtn=e
+[2019/08/18 15:01:47] INFO value=Space, rtn= 
+[2019/08/18 15:01:47] INFO value=m, rtn=m
+[2019/08/18 15:01:47] INFO value=a, rtn=a
+[2019/08/18 15:01:47] INFO value=k, rtn=k
+[2019/08/18 15:01:48] INFO value=e, rtn=e
+[2019/08/18 15:01:49] INFO value=Space, rtn= 
+[2019/08/18 15:01:49] INFO value=w, rtn=w
+[2019/08/18 15:01:49] INFO value=i, rtn=i
+[2019/08/18 15:01:49] INFO value=l, rtn=l
+[2019/08/18 15:01:49] INFO value=l, rtn=l
+[2019/08/18 15:01:50] INFO value=Space, rtn= 
+[2019/08/18 15:01:54] INFO value=b, rtn=b
+[2019/08/18 15:01:54] INFO value=e, rtn=e
+[2019/08/18 15:01:55] INFO value=Space, rtn= 
+[2019/08/18 15:01:55] INFO value=o, rtn=o
+[2019/08/18 15:01:55] INFO value=n, rtn=n
+[2019/08/18 15:01:55] INFO value=l, rtn=l
+[2019/08/18 15:01:55] INFO value=y, rtn=y
+[2019/08/18 15:01:55] INFO value=Space, rtn= 
+[2019/08/18 15:01:56] INFO value=t, rtn=t
+[2019/08/18 15:01:56] INFO value=e, rtn=e
+[2019/08/18 15:01:56] INFO value=m, rtn=m
+[2019/08/18 15:01:56] INFO value=p, rtn=p
+[2019/08/18 15:01:56] INFO value=l, rtn=l
+[2019/08/18 15:01:57] INFO value=a, rtn=a
+[2019/08/18 15:01:59] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:02:00] INFO value=o, rtn=o
+[2019/08/18 15:02:01] INFO value=r, rtn=r
+[2019/08/18 15:02:01] INFO value=a, rtn=a
+[2019/08/18 15:02:02] INFO value=r, rtn=r
+[2019/08/18 15:02:02] INFO value=y, rtn=y
+[2019/08/18 15:02:02] INFO value=Space, rtn= 
+[2019/08/18 15:02:02] INFO value=u, rtn=u
+[2019/08/18 15:02:03] INFO value=n, rtn=n
+[2019/08/18 15:02:03] INFO value=l, rtn=l
+[2019/08/18 15:02:03] INFO value=e, rtn=e
+[2019/08/18 15:02:04] INFO value=s, rtn=s
+[2019/08/18 15:02:04] INFO value=s, rtn=s
+[2019/08/18 15:02:04] INFO value=Space, rtn= 
+[2019/08/18 15:02:04] INFO value=w, rtn=w
+[2019/08/18 15:02:04] INFO value=e, rtn=e
+[2019/08/18 15:02:05] INFO value=Space, rtn= 
+[2019/08/18 15:02:05] INFO value=m, rtn=m
+[2019/08/18 15:02:05] INFO value=a, rtn=a
+[2019/08/18 15:02:05] INFO value=k, rtn=k
+[2019/08/18 15:02:05] INFO value=e, rtn=e
+[2019/08/18 15:02:06] INFO value=Space, rtn= 
+[2019/08/18 15:02:07] INFO value=o, rtn=o
+[2019/08/18 15:02:07] INFO value=u, rtn=u
+[2019/08/18 15:02:07] INFO value=r, rtn=r
+[2019/08/18 15:02:08] INFO value=s, rtn=s
+[2019/08/18 15:02:08] INFO value=s, rtn=s
+[2019/08/18 15:02:08] INFO value=e, rtn=e
+[2019/08/18 15:02:08] INFO value=l, rtn=l
+[2019/08/18 15:02:09] INFO value=v, rtn=v
+[2019/08/18 15:02:09] INFO value=e, rtn=e
+[2019/08/18 15:02:09] INFO value=s, rtn=s
+[2019/08/18 15:02:13] INFO value=Space, rtn= 
+[2019/08/18 15:02:13] INFO value=Space, rtn= 
+[2019/08/18 15:02:14] INFO value=d, rtn=d
+[2019/08/18 15:02:14] INFO value=a, rtn=a
+[2019/08/18 15:02:14] INFO value=s, rtn=s
+[2019/08/18 15:02:15] INFO value=s, rtn=s
+[2019/08/18 15:02:15] INFO value=y, rtn=y
+[2019/08/18 15:02:15] INFO value=u, rtn=u
+[2019/08/18 15:02:15] INFO value=u, rtn=u
+[2019/08/18 15:02:15] INFO value=Space, rtn= 
+[2019/08/18 15:02:17] INFO value=Space, rtn= 
+[2019/08/18 15:02:19] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:02:19] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:02:19] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:02:20] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:02:20] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:02:20] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:02:21] INFO value=d, rtn=d
+[2019/08/18 15:02:21] INFO value=a, rtn=a
+[2019/08/18 15:02:21] INFO value=s, rtn=s
+[2019/08/18 15:02:21] INFO value=s, rtn=s
+[2019/08/18 15:02:21] INFO value=y, rtn=y
+[2019/08/18 15:02:22] INFO value=u, rtn=u
+[2019/08/18 15:02:22] INFO value=Space, rtn= 
+[2019/08/18 15:02:22] INFO value=Enter, rtn=Enter
+[2019/08/18 15:02:23] INFO value=Enter, rtn=Enter
+[2019/08/18 15:02:23] INFO value=Space, rtn= 
+[2019/08/18 15:02:33] INFO line=2019/08/18 15:02	9964	68	0	0	29	LButton,LButton,BackSpace,BackSpace,change we make will be only templa,BackSpace,orary unless we make oursselves  dassyuu  ,BackSpace,BackSpace,BackSpace,BackSpace,BackSpace,BackSpace,dassyu ,Enter,Enter
+[2019/08/18 15:02:46] INFO value=n, rtn=n
+[2019/08/18 15:02:46] INFO value=o, rtn=o
+[2019/08/18 15:02:46] INFO value=Space, rtn= 
+[2019/08/18 15:02:46] INFO value=o, rtn=o
+[2019/08/18 15:02:47] INFO value=n, rtn=n
+[2019/08/18 15:02:47] INFO value=e, rtn=e
+[2019/08/18 15:02:47] INFO value=Space, rtn= 
+[2019/08/18 15:02:49] INFO value=o, rtn=o
+[2019/08/18 15:02:49] INFO value=r, rtn=r
+[2019/08/18 15:02:49] INFO value=Space, rtn= 
+[2019/08/18 15:02:50] INFO value=n, rtn=n
+[2019/08/18 15:02:50] INFO value=o, rtn=o
+[2019/08/18 15:02:50] INFO value=t, rtn=t
+[2019/08/18 15:02:50] INFO value=h, rtn=h
+[2019/08/18 15:02:50] INFO value=i, rtn=i
+[2019/08/18 15:02:50] INFO value=n, rtn=n
+[2019/08/18 15:02:51] INFO value=g, rtn=g
+[2019/08/18 15:02:51] INFO value=Space, rtn= 
+[2019/08/18 15:02:51] INFO value=e, rtn=e
+[2019/08/18 15:02:51] INFO value=l, rtn=l
+[2019/08/18 15:02:51] INFO value=s, rtn=s
+[2019/08/18 15:02:51] INFO value=e, rtn=e
+[2019/08/18 15:02:52] INFO value=Space, rtn= 
+[2019/08/18 15:02:53] INFO value=Space, rtn= 
+[2019/08/18 15:02:53] INFO value=d, rtn=d
+[2019/08/18 15:02:53] INFO value=a, rtn=a
+[2019/08/18 15:02:53] INFO value=s, rtn=s
+[2019/08/18 15:02:54] INFO value=s, rtn=s
+[2019/08/18 15:02:54] INFO value=y, rtn=y
+[2019/08/18 15:02:54] INFO value=u, rtn=u
+[2019/08/18 15:02:54] INFO value=Space, rtn= 
+[2019/08/18 15:02:55] INFO value=Enter, rtn=Enter
+[2019/08/18 15:02:55] INFO value=Enter, rtn=Enter
+[2019/08/18 15:02:55] INFO value=Space, rtn= 
+[2019/08/18 15:02:58] INFO value=r, rtn=r
+[2019/08/18 15:02:58] INFO value=e, rtn=e
+[2019/08/18 15:02:59] INFO value=s, rtn=s
+[2019/08/18 15:02:59] INFO value=p, rtn=p
+[2019/08/18 15:02:59] INFO value=o, rtn=o
+[2019/08/18 15:03:00] INFO value=n, rtn=n
+[2019/08/18 15:03:00] INFO value=s, rtn=s
+[2019/08/18 15:03:00] INFO value=i, rtn=i
+[2019/08/18 15:03:01] INFO value=b, rtn=b
+[2019/08/18 15:03:01] INFO value=l, rtn=l
+[2019/08/18 15:03:01] INFO value=e, rtn=e
+[2019/08/18 15:03:01] INFO value=Space, rtn= 
+[2019/08/18 15:03:02] INFO value=f, rtn=f
+[2019/08/18 15:03:02] INFO value=o, rtn=o
+[2019/08/18 15:03:02] INFO value=r, rtn=r
+[2019/08/18 15:03:02] INFO value=Space, rtn= 
+[2019/08/18 15:03:02] INFO value=o, rtn=o
+[2019/08/18 15:03:03] INFO value=u, rtn=u
+[2019/08/18 15:03:03] INFO value=r, rtn=r
+[2019/08/18 15:03:03] INFO value=Space, rtn= 
+[2019/08/18 15:03:03] INFO value=o, rtn=o
+[2019/08/18 15:03:03] INFO value=w, rtn=w
+[2019/08/18 15:03:04] INFO value=n, rtn=n
+[2019/08/18 15:03:04] INFO value=Space, rtn= 
+[2019/08/18 15:03:04] INFO value=c, rtn=c
+[2019/08/18 15:03:04] INFO value=h, rtn=h
+[2019/08/18 15:03:04] INFO value=a, rtn=a
+[2019/08/18 15:03:04] INFO value=n, rtn=n
+[2019/08/18 15:03:05] INFO value=g, rtn=g
+[2019/08/18 15:03:05] INFO value=e, rtn=e
+[2019/08/18 15:03:05] INFO value=., rtn=.
+[2019/08/18 15:03:06] INFO value=Space, rtn= 
+[2019/08/18 15:03:06] INFO value=, rtn=
+[2019/08/18 15:03:06] INFO value=, rtn=
+[2019/08/18 15:03:06] INFO value=Shift + s
+[2019/08/18 15:03:06] INFO line=2019/08/18 15:03	9964	36				no one or nothing else  dassyu ,Enter,Enter, responsible for our own change. 
+[2019/08/18 15:04:10] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:04:10] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:04:10] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:04:18] INFO value=LButton, rtn=LButton
+[2019/08/18 15:04:22] INFO value=c, rtn=c
+[2019/08/18 15:04:22] INFO value=i, rtn=i
+[2019/08/18 15:04:23] INFO value=f, rtn=f
+[2019/08/18 15:04:23] INFO value=i, rtn=i
+[2019/08/18 15:04:23] INFO value=c, rtn=c
+[2019/08/18 15:04:23] INFO value=a, rtn=a
+[2019/08/18 15:04:24] INFO value=l, rtn=l
+[2019/08/18 15:04:24] INFO value=l, rtn=l
+[2019/08/18 15:04:24] INFO value=y, rtn=y
+[2019/08/18 15:04:26] INFO value=,, rtn=,
+[2019/08/18 15:04:26] INFO value=Space, rtn= 
+[2019/08/18 15:04:26] INFO value=w, rtn=w
+[2019/08/18 15:04:26] INFO value=e, rtn=e
+[2019/08/18 15:04:27] INFO value=Space, rtn= 
+[2019/08/18 15:04:27] INFO value=m, rtn=m
+[2019/08/18 15:04:27] INFO value=u, rtn=u
+[2019/08/18 15:04:27] INFO value=s, rtn=s
+[2019/08/18 15:04:28] INFO value=t, rtn=t
+[2019/08/18 15:04:28] INFO value=Space, rtn= 
+[2019/08/18 15:04:28] INFO value=a, rtn=a
+[2019/08/18 15:04:28] INFO value=d, rtn=d
+[2019/08/18 15:04:28] INFO value=o, rtn=o
+[2019/08/18 15:04:29] INFO value=p, rtn=p
+[2019/08/18 15:04:29] INFO value=t, rtn=t
+[2019/08/18 15:04:29] INFO value=Space, rtn= 
+[2019/08/18 15:04:29] INFO value=t, rtn=t
+[2019/08/18 15:04:29] INFO value=h, rtn=h
+[2019/08/18 15:04:30] INFO value=e, rtn=e
+[2019/08/18 15:04:30] INFO value=s, rtn=s
+[2019/08/18 15:04:30] INFO value=e, rtn=e
+[2019/08/18 15:04:30] INFO value=Space, rtn= 
+[2019/08/18 15:04:30] INFO value=t, rtn=t
+[2019/08/18 15:04:31] INFO value=h, rtn=h
+[2019/08/18 15:04:31] INFO value=r, rtn=r
+[2019/08/18 15:04:31] INFO value=e, rtn=e
+[2019/08/18 15:04:31] INFO value=e, rtn=e
+[2019/08/18 15:04:31] INFO value=Space, rtn= 
+[2019/08/18 15:04:32] INFO value=c, rtn=c
+[2019/08/18 15:04:32] INFO value=o, rtn=o
+[2019/08/18 15:04:32] INFO value=r, rtn=r
+[2019/08/18 15:04:32] INFO value=e, rtn=e
+[2019/08/18 15:04:32] INFO value=Space, rtn= 
+[2019/08/18 15:04:32] INFO value=b, rtn=b
+[2019/08/18 15:04:33] INFO value=e, rtn=e
+[2019/08/18 15:04:33] INFO value=l, rtn=l
+[2019/08/18 15:04:34] INFO value=i, rtn=i
+[2019/08/18 15:04:34] INFO value=e, rtn=e
+[2019/08/18 15:04:34] INFO value=f, rtn=f
+[2019/08/18 15:04:34] INFO value=s, rtn=s
+[2019/08/18 15:04:36] INFO value=:, rtn=:
+[2019/08/18 15:04:37] INFO value=Enter, rtn=Enter
+[2019/08/18 15:04:43] INFO value=LButton, rtn=LButton
+[2019/08/18 15:04:52] INFO value=Space, rtn= 
+[2019/08/18 15:04:52] INFO value=Space, rtn= 
+[2019/08/18 15:04:52] INFO value=Space, rtn= 
+[2019/08/18 15:04:53] INFO value=Space, rtn= 
+[2019/08/18 15:05:03] INFO value=1, rtn=1
+[2019/08/18 15:05:03] INFO value=Shift, rtn=Shift
+[2019/08/18 15:05:03] INFO value=Shift, rtn=Shift
+[2019/08/18 15:05:03] INFO value=Shift + 9, rtn=)
+[2019/08/18 15:05:04] INFO value=Shift + 9, Space
+[2019/08/18 15:05:04] INFO value=Shift + 9, Space, rtn=Shift + 9, Space
+[2019/08/18 15:05:05] INFO value=Home, rtn=Home
+[2019/08/18 15:05:06] INFO value=Right, rtn=Right
+[2019/08/18 15:05:06] INFO value=Right, rtn=Right
+[2019/08/18 15:05:06] INFO value=Right, rtn=Right
+[2019/08/18 15:05:07] INFO value=Right, rtn=Right
+[2019/08/18 15:05:07] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:05:08] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:05:08] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:05:08] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:05:10] INFO line=2019/08/18 15:05	9964	41	1	3	20	LButton,cifically, we must adopt these three core beliefs:,Enter,LButton,    1,),Shift + 9, Space,Home,BackSpace,BackSpace,BackSpace,BackSpace
+[2019/08/18 15:05:13] INFO value=End, rtn=End
+[2019/08/18 15:05:20] INFO value=, rtn=
+[2019/08/18 15:05:20] INFO value=, rtn=
+[2019/08/18 15:05:20] INFO value=Shift + i
+[2019/08/18 15:05:20] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 15:05:20] INFO value=t, rtn=t
+[2019/08/18 15:05:46] INFO value=Space, rtn= 
+[2019/08/18 15:05:46] INFO value=m, rtn=m
+[2019/08/18 15:05:47] INFO value=u, rtn=u
+[2019/08/18 15:05:47] INFO value=s, rtn=s
+[2019/08/18 15:05:47] INFO value=t, rtn=t
+[2019/08/18 15:05:47] INFO value=Space, rtn= 
+[2019/08/18 15:05:49] INFO value=c, rtn=c
+[2019/08/18 15:05:49] INFO value=h, rtn=h
+[2019/08/18 15:05:49] INFO value=a, rtn=a
+[2019/08/18 15:05:49] INFO value=n, rtn=n
+[2019/08/18 15:05:49] INFO value=g, rtn=g
+[2019/08/18 15:05:49] INFO value=e, rtn=e
+[2019/08/18 15:05:50] INFO value=., rtn=.
+[2019/08/18 15:05:52] INFO value=Space, rtn= 
+[2019/08/18 15:05:52] INFO value=Shift, rtn=Shift
+[2019/08/18 15:05:52] INFO value=Shift, rtn=Shift
+[2019/08/18 15:05:52] INFO value=Shift + v
+[2019/08/18 15:05:52] INFO value=Shift + v, rtn=Shift + v
+[2019/08/18 15:05:53] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:05:53] INFO value=, rtn=
+[2019/08/18 15:05:53] INFO value=, rtn=
+[2019/08/18 15:05:53] INFO value=Shift + b
+[2019/08/18 15:05:53] INFO value=Shift + b, rtn=Shift + b
+[2019/08/18 15:05:54] INFO value=e, rtn=e
+[2019/08/18 15:05:57] INFO value=l, rtn=l
+[2019/08/18 15:05:57] INFO value=i, rtn=i
+[2019/08/18 15:05:57] INFO value=e, rtn=e
+[2019/08/18 15:05:57] INFO value=f, rtn=f
+[2019/08/18 15:06:09] INFO line=2019/08/18 15:06	9964	16	0	5	8	End,Shift + i,t must change. ,Shift + v,BackSpace,Shift + b
+[2019/08/18 15:06:24] INFO value=LButton, rtn=LButton
+[2019/08/18 15:06:26] INFO value=LButton, rtn=LButton
+[2019/08/18 15:06:30] INFO value=LButton, rtn=LButton
+[2019/08/18 15:06:35] INFO value=LButton, rtn=LButton
+[2019/08/18 15:07:48] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:07:48] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:07:48] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:07:52] INFO value=LButton, rtn=LButton
+[2019/08/18 15:08:00] INFO value=LButton, rtn=LButton
+[2019/08/18 15:08:02] INFO value=LButton, rtn=LButton
+[2019/08/18 15:08:04] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:05] INFO value=v, rtn=v
+[2019/08/18 15:08:05] INFO value=i, rtn=i
+[2019/08/18 15:08:05] INFO value=n, rtn=n
+[2019/08/18 15:08:05] INFO value=g, rtn=g
+[2019/08/18 15:08:05] INFO value=Space, rtn= 
+[2019/08/18 15:08:09] INFO value=t, rtn=t
+[2019/08/18 15:08:09] INFO value=h, rtn=h
+[2019/08/18 15:08:09] INFO value=a, rtn=a
+[2019/08/18 15:08:09] INFO value=t, rtn=t
+[2019/08/18 15:08:09] INFO value=Space, rtn= 
+[2019/08/18 15:08:10] INFO value=w, rtn=w
+[2019/08/18 15:08:10] INFO value=e, rtn=e
+[2019/08/18 15:08:10] INFO value=Space, rtn= 
+[2019/08/18 15:08:10] INFO value=s, rtn=s
+[2019/08/18 15:08:10] INFO value=h, rtn=h
+[2019/08/18 15:08:11] INFO value=o, rtn=o
+[2019/08/18 15:08:11] INFO value=u, rtn=u
+[2019/08/18 15:08:11] INFO value=l, rtn=l
+[2019/08/18 15:08:11] INFO value=d, rtn=d
+[2019/08/18 15:08:13] INFO value=Space, rtn= 
+[2019/08/18 15:08:13] INFO value=c, rtn=c
+[2019/08/18 15:08:13] INFO value=h, rtn=h
+[2019/08/18 15:08:14] INFO value=a, rtn=a
+[2019/08/18 15:08:14] INFO value=n, rtn=n
+[2019/08/18 15:08:14] INFO value=g, rtn=g
+[2019/08/18 15:08:14] INFO value=e, rtn=e
+[2019/08/18 15:08:14] INFO value=Space, rtn= 
+[2019/08/18 15:08:14] INFO value=i, rtn=i
+[2019/08/18 15:08:14] INFO value=s, rtn=s
+[2019/08/18 15:08:14] INFO value=Space, rtn= 
+[2019/08/18 15:08:15] INFO value=n, rtn=n
+[2019/08/18 15:08:15] INFO value=o, rtn=o
+[2019/08/18 15:08:15] INFO value=t, rtn=t
+[2019/08/18 15:08:15] INFO value=Space, rtn= 
+[2019/08/18 15:08:16] INFO value=e, rtn=e
+[2019/08/18 15:08:16] INFO value=n, rtn=n
+[2019/08/18 15:08:16] INFO value=o, rtn=o
+[2019/08/18 15:08:16] INFO value=u, rtn=u
+[2019/08/18 15:08:17] INFO value=h, rtn=h
+[2019/08/18 15:08:18] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:19] INFO value=g, rtn=g
+[2019/08/18 15:08:19] INFO value=h, rtn=h
+[2019/08/18 15:08:19] INFO value=., rtn=.
+[2019/08/18 15:08:22] INFO value=Enter, rtn=Enter
+[2019/08/18 15:08:23] INFO value=2, rtn=2
+[2019/08/18 15:08:23] INFO value=Shift, rtn=Shift
+[2019/08/18 15:08:23] INFO value=Shift, rtn=Shift
+[2019/08/18 15:08:23] INFO value=Shift + 9, rtn=)
+[2019/08/18 15:08:23] INFO value=Shift + Space
+[2019/08/18 15:08:23] INFO value=Shift + Space, rtn=Shift + Space
+[2019/08/18 15:08:25] INFO value=, rtn=
+[2019/08/18 15:08:25] INFO value=, rtn=
+[2019/08/18 15:08:25] INFO value=Shift + i
+[2019/08/18 15:08:25] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 15:08:25] INFO value=Space, rtn= 
+[2019/08/18 15:08:25] INFO value=m, rtn=m
+[2019/08/18 15:08:26] INFO value=u, rtn=u
+[2019/08/18 15:08:26] INFO value=s, rtn=s
+[2019/08/18 15:08:26] INFO value=t, rtn=t
+[2019/08/18 15:08:26] INFO value=Space, rtn= 
+[2019/08/18 15:08:26] INFO value=c, rtn=c
+[2019/08/18 15:08:26] INFO value=h, rtn=h
+[2019/08/18 15:08:27] INFO value=a, rtn=a
+[2019/08/18 15:08:27] INFO value=n, rtn=n
+[2019/08/18 15:08:27] INFO value=g, rtn=g
+[2019/08/18 15:08:27] INFO value=e, rtn=e
+[2019/08/18 15:08:27] INFO value=i, rtn=i
+[2019/08/18 15:08:27] INFO value=t, rtn=t
+[2019/08/18 15:08:29] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:29] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:29] INFO value=i, rtn=i
+[2019/08/18 15:08:29] INFO value=t, rtn=t
+[2019/08/18 15:08:29] INFO value=Space, rtn= 
+[2019/08/18 15:08:30] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:30] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:30] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:30] INFO value=Space, rtn= 
+[2019/08/18 15:08:31] INFO value=t, rtn=t
+[2019/08/18 15:08:31] INFO value=i, rtn=i
+[2019/08/18 15:08:31] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:31] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:32] INFO value=t, rtn=t
+[2019/08/18 15:08:32] INFO value=i, rtn=i
+[2019/08/18 15:08:32] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:32] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:33] INFO value=i, rtn=i
+[2019/08/18 15:08:33] INFO value=t, rtn=t
+[2019/08/18 15:08:34] INFO value=., rtn=.
+[2019/08/18 15:08:35] INFO value=Space, rtn= 
+[2019/08/18 15:08:35] INFO value=Shift, rtn=Shift
+[2019/08/18 15:08:35] INFO value=Shift, rtn=Shift
+[2019/08/18 15:08:35] INFO value=Shift + o
+[2019/08/18 15:08:35] INFO value=Shift + o, rtn=Shift + o
+[2019/08/18 15:08:35] INFO value=t, rtn=t
+[2019/08/18 15:08:36] INFO value=h, rtn=h
+[2019/08/18 15:08:36] INFO value=e, rtn=e
+[2019/08/18 15:08:36] INFO value=r, rtn=r
+[2019/08/18 15:08:48] INFO line=2019/08/18 15:08	9964	58	1	5	30	LButton,LButton,LButton,BackSpace,ving that we should change is not enouh,BackSpace,gh.,Enter,2,),Shift + Space,Shift + i, must changeit,BackSpace,BackSpace,it ,BackSpace,BackSpace,BackSpace, ti,BackSpace,BackSpace,ti,BackSpace,BackSpace,it. ,Shift + o
+[2019/08/18 15:08:52] INFO value=Space, rtn= 
+[2019/08/18 15:08:53] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:08:53] INFO value=s, rtn=s
+[2019/08/18 15:08:53] INFO value=Space, rtn= 
+[2019/08/18 15:08:54] INFO value=c, rtn=c
+[2019/08/18 15:08:54] INFO value=a, rtn=a
+[2019/08/18 15:08:54] INFO value=n, rtn=n
+[2019/08/18 15:08:54] INFO value=Space, rtn= 
+[2019/08/18 15:08:57] INFO value=c, rtn=c
+[2019/08/18 15:08:58] INFO value=o, rtn=o
+[2019/08/18 15:08:59] INFO value=a, rtn=a
+[2019/08/18 15:08:59] INFO value=c, rtn=c
+[2019/08/18 15:08:59] INFO value=h, rtn=h
+[2019/08/18 15:09:00] INFO value=Space, rtn= 
+[2019/08/18 15:09:02] INFO value=m, rtn=m
+[2019/08/18 15:09:02] INFO value=e, rtn=e
+[2019/08/18 15:09:03] INFO value=,, rtn=,
+[2019/08/18 15:09:03] INFO value=Space, rtn= 
+[2019/08/18 15:09:03] INFO value=b, rtn=b
+[2019/08/18 15:09:03] INFO value=u, rtn=u
+[2019/08/18 15:09:03] INFO value=t, rtn=t
+[2019/08/18 15:09:04] INFO value=Space, rtn= 
+[2019/08/18 15:09:04] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:04] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:04] INFO value=Shift + i
+[2019/08/18 15:09:04] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 15:09:04] INFO value= ( * 2 ), rtn= ( * 2 )
+[2019/08/18 15:09:04] INFO value= ( * 2 ), rtn= ( * 2 )
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:05] INFO value=Shift + 7, rtn='
+[2019/08/18 15:09:05] INFO value=Shift + 7, rtn='
+[2019/08/18 15:09:06] INFO value=m, rtn=m
+[2019/08/18 15:09:06] INFO value=Space, rtn= 
+[2019/08/18 15:09:07] INFO value=r, rtn=r
+[2019/08/18 15:09:07] INFO value=e, rtn=e
+[2019/08/18 15:09:07] INFO value=s, rtn=s
+[2019/08/18 15:09:08] INFO value=o, rtn=o
+[2019/08/18 15:09:08] INFO value=p, rtn=p
+[2019/08/18 15:09:08] INFO value=o, rtn=o
+[2019/08/18 15:09:08] INFO value=n, rtn=n
+[2019/08/18 15:09:09] INFO value=s, rtn=s
+[2019/08/18 15:09:09] INFO value=i, rtn=i
+[2019/08/18 15:09:09] INFO value=b, rtn=b
+[2019/08/18 15:09:10] INFO value=l, rtn=l
+[2019/08/18 15:09:10] INFO value=e, rtn=e
+[2019/08/18 15:09:10] INFO value=., rtn=.
+[2019/08/18 15:09:12] INFO value=Enter, rtn=Enter
+[2019/08/18 15:09:14] INFO value=3, rtn=3
+[2019/08/18 15:09:14] INFO value=, rtn=
+[2019/08/18 15:09:14] INFO value=, rtn=
+[2019/08/18 15:09:14] INFO value=Shift + 9, rtn=)
+[2019/08/18 15:09:14] INFO value=Space, rtn= 
+[2019/08/18 15:09:16] INFO value=Up, rtn=Up
+[2019/08/18 15:09:16] INFO value=Right, rtn=Right
+[2019/08/18 15:09:17] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:18] INFO value=Down, rtn=Down
+[2019/08/18 15:09:19] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:19] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:20] INFO value=Shift + i
+[2019/08/18 15:09:20] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 15:09:20] INFO value=Space, rtn= 
+[2019/08/18 15:09:20] INFO value=c, rtn=c
+[2019/08/18 15:09:20] INFO value=a, rtn=a
+[2019/08/18 15:09:20] INFO value=n, rtn=n
+[2019/08/18 15:09:20] INFO value=Space, rtn= 
+[2019/08/18 15:09:21] INFO value=c, rtn=c
+[2019/08/18 15:09:21] INFO value=n, rtn=n
+[2019/08/18 15:09:21] INFO value=a, rtn=a
+[2019/08/18 15:09:21] INFO value=g, rtn=g
+[2019/08/18 15:09:21] INFO value=e, rtn=e
+[2019/08/18 15:09:23] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:23] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:23] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:23] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:23] INFO value=a, rtn=a
+[2019/08/18 15:09:24] INFO value=n, rtn=n
+[2019/08/18 15:09:24] INFO value=g, rtn=g
+[2019/08/18 15:09:24] INFO value=e, rtn=e
+[2019/08/18 15:09:24] INFO value=Space, rtn= 
+[2019/08/18 15:09:25] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:25] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:25] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:25] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:25] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:26] INFO value=h, rtn=h
+[2019/08/18 15:09:26] INFO value=a, rtn=a
+[2019/08/18 15:09:26] INFO value=n, rtn=n
+[2019/08/18 15:09:26] INFO value=c, rtn=c
+[2019/08/18 15:09:26] INFO value=e, rtn=e
+[2019/08/18 15:09:27] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:27] INFO value=g, rtn=g
+[2019/08/18 15:09:27] INFO value=e, rtn=e
+[2019/08/18 15:09:27] INFO value=Space, rtn= 
+[2019/08/18 15:09:27] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:27] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:28] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:28] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:28] INFO value=g, rtn=g
+[2019/08/18 15:09:28] INFO value=e, rtn=e
+[2019/08/18 15:09:28] INFO value=Space, rtn= 
+[2019/08/18 15:09:30] INFO value=i, rtn=i
+[2019/08/18 15:09:30] INFO value=t, rtn=t
+[2019/08/18 15:09:30] INFO value=., rtn=.
+[2019/08/18 15:09:31] INFO value=Space, rtn= 
+[2019/08/18 15:09:31] INFO value=, rtn=
+[2019/08/18 15:09:31] INFO value=, rtn=
+[2019/08/18 15:09:31] INFO value=Shift + i
+[2019/08/18 15:09:31] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 15:09:31] INFO value=Space, rtn= 
+[2019/08/18 15:09:33] INFO value=c, rtn=c
+[2019/08/18 15:09:33] INFO value=r, rtn=r
+[2019/08/18 15:09:33] INFO value=e, rtn=e
+[2019/08/18 15:09:33] INFO value=a, rtn=a
+[2019/08/18 15:09:33] INFO value=t, rtn=t
+[2019/08/18 15:09:33] INFO value=e, rtn=e
+[2019/08/18 15:09:34] INFO value=d, rtn=d
+[2019/08/18 15:09:35] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:35] INFO value=e, rtn=e
+[2019/08/18 15:09:35] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:35] INFO value=d, rtn=d
+[2019/08/18 15:09:36] INFO value=Space, rtn= 
+[2019/08/18 15:09:37] INFO value=w, rtn=w
+[2019/08/18 15:09:38] INFO value=h, rtn=h
+[2019/08/18 15:09:38] INFO value=a, rtn=a
+[2019/08/18 15:09:38] INFO value=t, rtn=t
+[2019/08/18 15:09:38] INFO value=Space, rtn= 
+[2019/08/18 15:09:38] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:38] INFO value=Shift, rtn=Shift
+[2019/08/18 15:09:39] INFO value=Shift + 8, rtn=(
+[2019/08/18 15:09:39] INFO value= ( * 2 ), rtn= ( * 2 )
+[2019/08/18 15:09:39] INFO value= ( * 2 ), rtn= ( * 2 )
+[2019/08/18 15:09:39] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:41] INFO value=, rtn=
+[2019/08/18 15:09:41] INFO value=, rtn=
+[2019/08/18 15:09:41] INFO value=Shift + i
+[2019/08/18 15:09:41] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 15:09:41] INFO value=, rtn=
+[2019/08/18 15:09:41] INFO value=, rtn=
+[2019/08/18 15:09:41] INFO value=Shift + 7, rtn='
+[2019/08/18 15:09:42] INFO value=m, rtn=m
+[2019/08/18 15:09:42] INFO value=Space, rtn= 
+[2019/08/18 15:09:43] INFO value=e, rtn=e
+[2019/08/18 15:09:43] INFO value=x, rtn=x
+[2019/08/18 15:09:43] INFO value=p, rtn=p
+[2019/08/18 15:09:44] INFO value=r, rtn=r
+[2019/08/18 15:09:44] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:45] INFO value=e, rtn=e
+[2019/08/18 15:09:45] INFO value=r, rtn=r
+[2019/08/18 15:09:45] INFO value=i, rtn=i
+[2019/08/18 15:09:46] INFO value=e, rtn=e
+[2019/08/18 15:09:46] INFO value=n, rtn=n
+[2019/08/18 15:09:46] INFO value=c, rtn=c
+[2019/08/18 15:09:46] INFO value=e, rtn=e
+[2019/08/18 15:09:47] INFO line=2019/08/18 15:09	9964	75	1	16	47	 ,BackSpace,s can coach me, but ,Shift + i, ( * 2 ), ( * 2 ),''m resoponsible.,Enter,3) ,BackSpace,Shift + i, can cnage,BackSpace,BackSpace,BackSpace,BackSpace,ange ,BackSpace,BackSpace,BackSpace,BackSpace,BackSpace,hance,BackSpace,ge ,BackSpace,BackSpace,BackSpace,BackSpace,ge it. ,Shift + i, created,BackSpace,e,BackSpace,d what ,(, ( * 2 ), ( * 2 ),BackSpace,Shift + i,'m expr,BackSpace
+[2019/08/18 15:09:47] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:48] INFO value=i, rtn=i
+[2019/08/18 15:09:48] INFO value=n, rtn=n
+[2019/08/18 15:09:48] INFO value=g, rtn=g
+[2019/08/18 15:09:49] INFO value=;, rtn=;
+[2019/08/18 15:09:49] INFO value=Space, rtn= 
+[2019/08/18 15:09:50] INFO value=, rtn=
+[2019/08/18 15:09:50] INFO value=, rtn=
+[2019/08/18 15:09:51] INFO value=t, rtn=t
+[2019/08/18 15:09:51] INFO value=h, rtn=h
+[2019/08/18 15:09:51] INFO value=e, rtn=e
+[2019/08/18 15:09:52] INFO value=r, rtn=r
+[2019/08/18 15:09:52] INFO value=e, rtn=e
+[2019/08/18 15:09:52] INFO value=Space, rtn= 
+[2019/08/18 15:09:52] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:53] INFO value=f, rtn=f
+[2019/08/18 15:09:53] INFO value=o, rtn=o
+[2019/08/18 15:09:53] INFO value=r, rtn=r
+[2019/08/18 15:09:54] INFO value=e, rtn=e
+[2019/08/18 15:09:55] INFO value=Space, rtn= 
+[2019/08/18 15:09:57] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:09:57] INFO value=,, rtn=,
+[2019/08/18 15:09:57] INFO value=Space, rtn= 
+[2019/08/18 15:09:58] INFO value=, rtn=
+[2019/08/18 15:09:58] INFO value=, rtn=
+[2019/08/18 15:09:58] INFO value=Shift + i
+[2019/08/18 15:09:58] INFO value=Shift + i, rtn=Shift + i
+[2019/08/18 15:09:58] INFO value=Space, rtn= 
+[2019/08/18 15:09:59] INFO value=c, rtn=c
+[2019/08/18 15:09:59] INFO value=a, rtn=a
+[2019/08/18 15:09:59] INFO value=n, rtn=n
+[2019/08/18 15:09:59] INFO value=Space, rtn= 
+[2019/08/18 15:10:00] INFO value=c, rtn=c
+[2019/08/18 15:10:00] INFO value=h, rtn=h
+[2019/08/18 15:10:00] INFO value=a, rtn=a
+[2019/08/18 15:10:00] INFO value=n, rtn=n
+[2019/08/18 15:10:00] INFO value=g, rtn=g
+[2019/08/18 15:10:00] INFO value=e, rtn=e
+[2019/08/18 15:10:00] INFO value=Space, rtn= 
+[2019/08/18 15:10:01] INFO value=i, rtn=i
+[2019/08/18 15:10:01] INFO value=t, rtn=t
+[2019/08/18 15:10:01] INFO value=., rtn=.
+[2019/08/18 15:10:21] INFO value=LButton, rtn=LButton
+[2019/08/18 15:10:23] INFO value=LButton, rtn=LButton
+[2019/08/18 15:12:05] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:12:05] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:12:05] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:12:12] INFO value=LButton, rtn=LButton
+[2019/08/18 15:12:18] INFO value=LButton, rtn=LButton
+[2019/08/18 15:12:20] INFO value=LButton, rtn=LButton
+[2019/08/18 15:12:21] INFO value=, rtn=
+[2019/08/18 15:12:21] INFO value=, rtn=
+[2019/08/18 15:12:21] INFO value=Shift + g
+[2019/08/18 15:12:23] INFO line=2019/08/18 15:12	9964	3				LButton,LButton,LButton,
+[2019/08/18 15:13:50] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:13:50] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:13:50] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:13:56] INFO value=LButton, rtn=LButton
+[2019/08/18 15:13:59] INFO value=Shift, rtn=Shift
+[2019/08/18 15:13:59] INFO value=Shift, rtn=Shift
+[2019/08/18 15:14:01] INFO value=LButton, rtn=LButton
+[2019/08/18 15:14:01] INFO value=Shift, rtn=Shift
+[2019/08/18 15:14:01] INFO value=Shift, rtn=Shift
+[2019/08/18 15:14:02] INFO value=Shift + a
+[2019/08/18 15:14:03] INFO line=2019/08/18 15:14	9964	2				LButton,LButton,
+[2019/08/18 15:18:30] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:18:30] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:18:30] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:18:35] INFO value=LButton, rtn=LButton
+[2019/08/18 15:18:36] INFO value=LButton, rtn=LButton
+[2019/08/18 15:18:44] INFO value=LButton, rtn=LButton
+[2019/08/18 15:18:45] INFO value=Space, rtn= 
+[2019/08/18 15:18:46] INFO value=1, rtn=1
+[2019/08/18 15:18:46] INFO value=2, rtn=2
+[2019/08/18 15:18:47] INFO value=4, rtn=4
+[2019/08/18 15:18:48] INFO value=Tab, rtn=Tab
+[2019/08/18 15:18:51] INFO value=, rtn=
+[2019/08/18 15:18:51] INFO value=, rtn=
+[2019/08/18 15:18:51] INFO line=2019/08/18 15:18	9964	5				LButton,LButton,LButton, 124,Tab,
+[2019/08/18 15:21:16] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:21:16] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:21:16] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:21:20] INFO value=LButton, rtn=LButton
+[2019/08/18 15:21:22] INFO value=Space, rtn= 
+[2019/08/18 15:21:23] INFO value=r, rtn=r
+[2019/08/18 15:21:23] INFO value=e, rtn=e
+[2019/08/18 15:21:24] INFO value=a, rtn=a
+[2019/08/18 15:21:24] INFO value=l, rtn=l
+[2019/08/18 15:21:24] INFO value=l, rtn=l
+[2019/08/18 15:21:24] INFO value=y, rtn=y
+[2019/08/18 15:21:26] INFO value=Space, rtn= 
+[2019/08/18 15:21:27] INFO value=m, rtn=m
+[2019/08/18 15:21:27] INFO value=a, rtn=a
+[2019/08/18 15:21:28] INFO value=k, rtn=k
+[2019/08/18 15:21:28] INFO value=e, rtn=e
+[2019/08/18 15:21:28] INFO value=s, rtn=s
+[2019/08/18 15:21:28] INFO value=Space, rtn= 
+[2019/08/18 15:21:29] INFO value=c, rtn=c
+[2019/08/18 15:21:29] INFO value=h, rtn=h
+[2019/08/18 15:21:29] INFO value=a, rtn=a
+[2019/08/18 15:21:30] INFO value=n, rtn=n
+[2019/08/18 15:21:30] INFO value=g, rtn=g
+[2019/08/18 15:21:30] INFO value=e, rtn=e
+[2019/08/18 15:21:30] INFO value=Space, rtn= 
+[2019/08/18 15:21:31] INFO value=h, rtn=h
+[2019/08/18 15:21:31] INFO value=a, rtn=a
+[2019/08/18 15:21:31] INFO value=p, rtn=p
+[2019/08/18 15:21:31] INFO value=p, rtn=p
+[2019/08/18 15:21:31] INFO value=e, rtn=e
+[2019/08/18 15:21:31] INFO value=n, rtn=n
+[2019/08/18 15:21:32] INFO value=Shift, rtn=Shift
+[2019/08/18 15:21:32] INFO value=Shift, rtn=Shift
+[2019/08/18 15:21:32] INFO value=Shift + /, rtn=?
+[2019/08/18 15:21:33] INFO line=2019/08/18 15:21	9964	3				LButton, really makes change happen,?
+[2019/08/18 15:23:16] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:23:16] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:23:16] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:23:23] INFO value=LButton, rtn=LButton
+[2019/08/18 15:23:26] INFO value=h, rtn=h
+[2019/08/18 15:23:26] INFO value=a, rtn=a
+[2019/08/18 15:23:26] INFO value=p, rtn=p
+[2019/08/18 15:23:26] INFO value=p, rtn=p
+[2019/08/18 15:23:26] INFO value=e, rtn=e
+[2019/08/18 15:23:26] INFO value=n, rtn=n
+[2019/08/18 15:23:27] INFO value=Space, rtn= 
+[2019/08/18 15:23:29] INFO value=w, rtn=w
+[2019/08/18 15:23:29] INFO value=h, rtn=h
+[2019/08/18 15:23:30] INFO value=e, rtn=e
+[2019/08/18 15:23:30] INFO value=n, rtn=n
+[2019/08/18 15:23:30] INFO value=Space, rtn= 
+[2019/08/18 15:23:30] INFO value=w, rtn=w
+[2019/08/18 15:23:30] INFO value=e, rtn=e
+[2019/08/18 15:23:30] INFO value=Space, rtn= 
+[2019/08/18 15:23:31] INFO value=a, rtn=a
+[2019/08/18 15:23:31] INFO value=l, rtn=l
+[2019/08/18 15:23:31] INFO value=t, rtn=t
+[2019/08/18 15:23:32] INFO value=e, rtn=e
+[2019/08/18 15:23:32] INFO value=r, rtn=r
+[2019/08/18 15:23:32] INFO value=Space, rtn= 
+[2019/08/18 15:23:32] INFO value=i, rtn=i
+[2019/08/18 15:23:32] INFO value=n, rtn=n
+[2019/08/18 15:23:32] INFO value=Space, rtn= 
+[2019/08/18 15:23:32] INFO value=o, rtn=o
+[2019/08/18 15:23:33] INFO value=u, rtn=u
+[2019/08/18 15:23:33] INFO value=r, rtn=r
+[2019/08/18 15:23:33] INFO value=Space, rtn= 
+[2019/08/18 15:23:34] INFO value=n, rtn=n
+[2019/08/18 15:23:34] INFO value=e, rtn=e
+[2019/08/18 15:23:34] INFO value=r, rtn=r
+[2019/08/18 15:23:35] INFO value=v, rtn=v
+[2019/08/18 15:23:35] INFO value=o, rtn=o
+[2019/08/18 15:23:35] INFO value=u, rtn=u
+[2019/08/18 15:23:35] INFO value=s, rtn=s
+[2019/08/18 15:23:35] INFO value=Space, rtn= 
+[2019/08/18 15:23:36] INFO value=s, rtn=s
+[2019/08/18 15:23:36] INFO value=y, rtn=y
+[2019/08/18 15:23:36] INFO value=s, rtn=s
+[2019/08/18 15:23:36] INFO value=t, rtn=t
+[2019/08/18 15:23:36] INFO value=e, rtn=e
+[2019/08/18 15:23:36] INFO value=m, rtn=m
+[2019/08/18 15:23:36] INFO value=Space, rtn= 
+[2019/08/18 15:23:37] INFO value=t, rtn=t
+[2019/08/18 15:23:37] INFO value=h, rtn=h
+[2019/08/18 15:23:37] INFO value=e, rtn=e
+[2019/08/18 15:23:37] INFO value=Space, rtn= 
+[2019/08/18 15:23:37] INFO value=s, rtn=s
+[2019/08/18 15:23:38] INFO value=e, rtn=e
+[2019/08/18 15:23:38] INFO value=n, rtn=n
+[2019/08/18 15:23:38] INFO value=s, rtn=s
+[2019/08/18 15:23:39] INFO value=a, rtn=a
+[2019/08/18 15:23:39] INFO value=t, rtn=t
+[2019/08/18 15:23:39] INFO value=i, rtn=i
+[2019/08/18 15:23:39] INFO value=o, rtn=o
+[2019/08/18 15:23:39] INFO value=n, rtn=n
+[2019/08/18 15:23:39] INFO value=s, rtn=s
+[2019/08/18 15:23:40] INFO value=Space, rtn= 
+[2019/08/18 15:23:40] INFO value=w, rtn=w
+[2019/08/18 15:23:40] INFO value=e, rtn=e
+[2019/08/18 15:23:40] INFO value=Space, rtn= 
+[2019/08/18 15:23:40] INFO value=l, rtn=l
+[2019/08/18 15:23:41] INFO value=i, rtn=i
+[2019/08/18 15:23:41] INFO value=n, rtn=n
+[2019/08/18 15:23:41] INFO value=k, rtn=k
+[2019/08/18 15:23:43] INFO value=Space, rtn= 
+[2019/08/18 15:23:43] INFO value=t, rtn=t
+[2019/08/18 15:23:43] INFO value=o, rtn=o
+[2019/08/18 15:23:44] INFO value=Space, rtn= 
+[2019/08/18 15:23:44] INFO value=a, rtn=a
+[2019/08/18 15:23:44] INFO value=n, rtn=n
+[2019/08/18 15:23:44] INFO value=Space, rtn= 
+[2019/08/18 15:23:44] INFO value=e, rtn=e
+[2019/08/18 15:23:45] INFO value=x, rtn=x
+[2019/08/18 15:23:45] INFO value=p, rtn=p
+[2019/08/18 15:23:45] INFO value=e, rtn=e
+[2019/08/18 15:23:46] INFO value=r, rtn=r
+[2019/08/18 15:23:46] INFO value=i, rtn=i
+[2019/08/18 15:23:46] INFO value=e, rtn=e
+[2019/08/18 15:23:46] INFO value=n, rtn=n
+[2019/08/18 15:23:47] INFO value=c, rtn=c
+[2019/08/18 15:23:47] INFO value=e, rtn=e
+[2019/08/18 15:23:47] INFO value=., rtn=.
+[2019/08/18 15:23:50] INFO value=Enter, rtn=Enter
+[2019/08/18 15:23:58] INFO value=LButton, rtn=LButton
+[2019/08/18 15:24:02] INFO value=LButton, rtn=LButton
+[2019/08/18 15:24:07] INFO value=LButton, rtn=LButton
+[2019/08/18 15:24:10] INFO value=LButton, rtn=LButton
+[2019/08/18 15:24:11] INFO value=Enter, rtn=Enter
+[2019/08/18 15:24:13] INFO value=Space, rtn= 
+[2019/08/18 15:24:13] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:13] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:13] INFO value=Shift + a, rtn=A
+[2019/08/18 15:24:13] INFO value=s, rtn=s
+[2019/08/18 15:24:13] INFO value=Space, rtn= 
+[2019/08/18 15:24:15] INFO line=2019/08/18 15:24	9964	70	0	1	23	LButton,happen when we alter in our nervous system the sensations we link to an experience.,Enter,LButton,LButton,LButton,LButton,Enter, 
+[2019/08/18 15:24:26] INFO value=l, rtn=l
+[2019/08/18 15:24:26] INFO value=o, rtn=o
+[2019/08/18 15:24:26] INFO value=g, rtn=g
+[2019/08/18 15:24:27] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:24:28] INFO value=n, rtn=n
+[2019/08/18 15:24:28] INFO value=g, rtn=g
+[2019/08/18 15:24:28] INFO value=Space, rtn= 
+[2019/08/18 15:24:29] INFO value=a, rtn=a
+[2019/08/18 15:24:29] INFO value=s, rtn=s
+[2019/08/18 15:24:29] INFO value=Space, rtn= 
+[2019/08/18 15:24:33] INFO value=c, rtn=c
+[2019/08/18 15:24:33] INFO value=i, rtn=i
+[2019/08/18 15:24:33] INFO value=g, rtn=g
+[2019/08/18 15:24:33] INFO value=a, rtn=a
+[2019/08/18 15:24:34] INFO value=r, rtn=r
+[2019/08/18 15:24:34] INFO value=e, rtn=e
+[2019/08/18 15:24:34] INFO value=t, rtn=t
+[2019/08/18 15:24:34] INFO value=t, rtn=t
+[2019/08/18 15:24:34] INFO value=e, rtn=e
+[2019/08/18 15:24:35] INFO value=s, rtn=s
+[2019/08/18 15:24:35] INFO value=Space, rtn= 
+[2019/08/18 15:24:35] INFO value=g, rtn=g
+[2019/08/18 15:24:35] INFO value=i, rtn=i
+[2019/08/18 15:24:36] INFO value=v, rtn=v
+[2019/08/18 15:24:36] INFO value=e, rtn=e
+[2019/08/18 15:24:36] INFO value=Space, rtn= 
+[2019/08/18 15:24:36] INFO value=y, rtn=y
+[2019/08/18 15:24:36] INFO value=o, rtn=o
+[2019/08/18 15:24:36] INFO value=u, rtn=u
+[2019/08/18 15:24:37] INFO value=Space, rtn= 
+[2019/08/18 15:24:37] INFO value=f, rtn=f
+[2019/08/18 15:24:37] INFO value=e, rtn=e
+[2019/08/18 15:24:38] INFO value=e, rtn=e
+[2019/08/18 15:24:38] INFO value=l, rtn=l
+[2019/08/18 15:24:38] INFO value=i, rtn=i
+[2019/08/18 15:24:38] INFO value=n, rtn=n
+[2019/08/18 15:24:38] INFO value=g, rtn=g
+[2019/08/18 15:24:38] INFO value=s, rtn=s
+[2019/08/18 15:24:38] INFO value=Space, rtn= 
+[2019/08/18 15:24:39] INFO value=o, rtn=o
+[2019/08/18 15:24:39] INFO value=f, rtn=f
+[2019/08/18 15:24:39] INFO value=Space, rtn= 
+[2019/08/18 15:24:40] INFO value=p, rtn=p
+[2019/08/18 15:24:40] INFO value=l, rtn=l
+[2019/08/18 15:24:40] INFO value=e, rtn=e
+[2019/08/18 15:24:40] INFO value=a, rtn=a
+[2019/08/18 15:24:40] INFO value=s, rtn=s
+[2019/08/18 15:24:41] INFO value=u, rtn=u
+[2019/08/18 15:24:41] INFO value=r, rtn=r
+[2019/08/18 15:24:41] INFO value=e, rtn=e
+[2019/08/18 15:24:41] INFO value=,, rtn=,
+[2019/08/18 15:24:41] INFO value=Space, rtn= 
+[2019/08/18 15:24:42] INFO value=y, rtn=y
+[2019/08/18 15:24:42] INFO value=o, rtn=o
+[2019/08/18 15:24:42] INFO value=u, rtn=u
+[2019/08/18 15:24:42] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:42] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:43] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:43] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:43] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:43] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:43] INFO value=Shift + 7, rtn='
+[2019/08/18 15:24:44] INFO value=l, rtn=l
+[2019/08/18 15:24:49] INFO value=l, rtn=l
+[2019/08/18 15:24:49] INFO value=Space, rtn= 
+[2019/08/18 15:24:50] INFO value=b, rtn=b
+[2019/08/18 15:24:50] INFO value=e, rtn=e
+[2019/08/18 15:24:50] INFO value=Space, rtn= 
+[2019/08/18 15:24:50] INFO value=d, rtn=d
+[2019/08/18 15:24:51] INFO value=r, rtn=r
+[2019/08/18 15:24:51] INFO value=a, rtn=a
+[2019/08/18 15:24:51] INFO value=w, rtn=w
+[2019/08/18 15:24:52] INFO value=n, rtn=n
+[2019/08/18 15:24:52] INFO value=Space, rtn= 
+[2019/08/18 15:24:52] INFO value=t, rtn=t
+[2019/08/18 15:24:52] INFO value=o, rtn=o
+[2019/08/18 15:24:52] INFO value=Space, rtn= 
+[2019/08/18 15:24:53] INFO value=t, rtn=t
+[2019/08/18 15:24:53] INFO value=h, rtn=h
+[2019/08/18 15:24:54] INFO value=e, rtn=e
+[2019/08/18 15:24:54] INFO value=m, rtn=m
+[2019/08/18 15:24:54] INFO value=Space, rtn= 
+[2019/08/18 15:24:55] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:24:55] INFO value=., rtn=.
+[2019/08/18 15:24:55] INFO value=Space, rtn= 
+[2019/08/18 15:24:56] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:56] INFO value=Shift, rtn=Shift
+[2019/08/18 15:24:56] INFO value=Shift + i, rtn=I
+[2019/08/18 15:24:57] INFO value=t, rtn=t
+[2019/08/18 15:25:01] INFO value=Shift, rtn=Shift
+[2019/08/18 15:25:01] INFO value=Shift, rtn=Shift
+[2019/08/18 15:25:01] INFO value=Shift + 7, rtn='
+[2019/08/18 15:25:01] INFO value=s, rtn=s
+[2019/08/18 15:25:01] INFO value=Space, rtn= 
+[2019/08/18 15:25:03] INFO value=o, rtn=o
+[2019/08/18 15:25:03] INFO value=n, rtn=n
+[2019/08/18 15:25:03] INFO value=l, rtn=l
+[2019/08/18 15:25:03] INFO value=y, rtn=y
+[2019/08/18 15:25:04] INFO value=Space, rtn= 
+[2019/08/18 15:25:04] INFO value=w, rtn=w
+[2019/08/18 15:25:04] INFO value=h, rtn=h
+[2019/08/18 15:25:05] INFO value=e, rtn=e
+[2019/08/18 15:25:05] INFO value=n, rtn=n
+[2019/08/18 15:25:05] INFO value=Space, rtn= 
+[2019/08/18 15:25:09] INFO value=y, rtn=y
+[2019/08/18 15:25:10] INFO value=o, rtn=o
+[2019/08/18 15:25:10] INFO value=u, rtn=u
+[2019/08/18 15:25:10] INFO value=Space, rtn= 
+[2019/08/18 15:25:10] INFO value=a, rtn=a
+[2019/08/18 15:25:10] INFO value=s, rtn=s
+[2019/08/18 15:25:11] INFO value=s, rtn=s
+[2019/08/18 15:25:11] INFO value=o, rtn=o
+[2019/08/18 15:25:11] INFO value=c, rtn=c
+[2019/08/18 15:25:11] INFO value=i, rtn=i
+[2019/08/18 15:25:11] INFO value=a, rtn=a
+[2019/08/18 15:25:12] INFO value=t, rtn=t
+[2019/08/18 15:25:12] INFO value=e, rtn=e
+[2019/08/18 15:25:12] INFO value=Space, rtn= 
+[2019/08/18 15:25:12] INFO value=c, rtn=c
+[2019/08/18 15:25:12] INFO value=i, rtn=i
+[2019/08/18 15:25:13] INFO value=g, rtn=g
+[2019/08/18 15:25:13] INFO value=a, rtn=a
+[2019/08/18 15:25:13] INFO value=r, rtn=r
+[2019/08/18 15:25:13] INFO value=e, rtn=e
+[2019/08/18 15:25:14] INFO value=e, rtn=e
+[2019/08/18 15:25:14] INFO value=t, rtn=t
+[2019/08/18 15:25:15] INFO line=2019/08/18 15:25	9964	91	0	4	21	log,BackSpace,ng as cigarettes give you feelings of pleasure, you,'ll be drawn to them ,BackSpace,. ,It
+[2019/08/18 15:25:16] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:25:16] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:25:16] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:25:16] INFO value=t, rtn=t
+[2019/08/18 15:25:17] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:25:17] INFO value=e, rtn=e
+[2019/08/18 15:25:17] INFO value=t, rtn=t
+[2019/08/18 15:25:17] INFO value=t, rtn=t
+[2019/08/18 15:25:17] INFO value=e, rtn=e
+[2019/08/18 15:25:19] INFO value=s, rtn=s
+[2019/08/18 15:25:19] INFO value=Space, rtn= 
+[2019/08/18 15:25:19] INFO value=w, rtn=w
+[2019/08/18 15:25:19] INFO value=i, rtn=i
+[2019/08/18 15:25:19] INFO value=t, rtn=t
+[2019/08/18 15:25:20] INFO value=h, rtn=h
+[2019/08/18 15:25:20] INFO value=Space, rtn= 
+[2019/08/18 15:25:20] INFO value=d, rtn=d
+[2019/08/18 15:25:20] INFO value=i, rtn=i
+[2019/08/18 15:25:20] INFO value=s, rtn=s
+[2019/08/18 15:25:21] INFO value=g, rtn=g
+[2019/08/18 15:25:21] INFO value=u, rtn=u
+[2019/08/18 15:25:21] INFO value=s, rtn=s
+[2019/08/18 15:25:21] INFO value=t, rtn=t
+[2019/08/18 15:25:22] INFO value=,, rtn=,
+[2019/08/18 15:25:22] INFO value=Space, rtn= 
+[2019/08/18 15:25:22] INFO value=Shift, rtn=Shift
+[2019/08/18 15:25:22] INFO value=Shift, rtn=Shift
+[2019/08/18 15:25:23] INFO value=Shift + 2, rtn="
+[2019/08/18 15:25:23] INFO value=Shift + 2, 2, rtn=2, 2
+[2019/08/18 15:25:23] INFO value=Left, rtn=Left
+[2019/08/18 15:25:24] INFO value=Shift, rtn=Shift
+[2019/08/18 15:25:24] INFO value=Shift, rtn=Shift
+[2019/08/18 15:25:24] INFO value=Shift + a, rtn=A
+[2019/08/18 15:25:24] INFO value=s, rtn=s
+[2019/08/18 15:25:26] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:25:26] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:25:26] INFO value=a, rtn=a
+[2019/08/18 15:25:27] INFO value=s, rtn=s
+[2019/08/18 15:25:27] INFO value=h, rtn=h
+[2019/08/18 15:25:29] INFO value=t, rtn=t
+[2019/08/18 15:25:29] INFO value=r, rtn=r
+[2019/08/18 15:25:29] INFO value=a, rtn=a
+[2019/08/18 15:25:30] INFO value=y, rtn=y
+[2019/08/18 15:25:31] INFO value=Space, rtn= 
+[2019/08/18 15:25:31] INFO value=m, rtn=m
+[2019/08/18 15:25:32] INFO value=o, rtn=o
+[2019/08/18 15:25:32] INFO value=u, rtn=u
+[2019/08/18 15:25:32] INFO value=s, rtn=s
+[2019/08/18 15:25:32] INFO value=t, rtn=t
+[2019/08/18 15:25:32] INFO value=h, rtn=h
+[2019/08/18 15:25:35] INFO value=Left, rtn=Left
+[2019/08/18 15:25:35] INFO value=Left, rtn=Left
+[2019/08/18 15:25:36] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 15:25:36] INFO value=Right, rtn=Right
+[2019/08/18 15:25:36] INFO value=Right, rtn=Right
+[2019/08/18 15:25:40] INFO value=Right, rtn=Right
+[2019/08/18 15:25:42] INFO value=Left, rtn=Left
+[2019/08/18 15:25:42] INFO value=,, rtn=,
+[2019/08/18 15:25:43] INFO value=Right, rtn=Right
+[2019/08/18 15:25:43] INFO value=Space, rtn= 
+[2019/08/18 15:25:47] INFO value=a, rtn=a
+[2019/08/18 15:25:47] INFO value=n, rtn=n
+[2019/08/18 15:25:48] INFO value=d, rtn=d
+[2019/08/18 15:25:48] INFO value=Space, rtn= 
+[2019/08/18 15:25:48] INFO value=d, rtn=d
+[2019/08/18 15:25:48] INFO value=e, rtn=e
+[2019/08/18 15:25:48] INFO value=a, rtn=a
+[2019/08/18 15:25:49] INFO value=t, rtn=t
+[2019/08/18 15:25:49] INFO value=h, rtn=h
+[2019/08/18 15:25:49] INFO value=Space, rtn= 
+[2019/08/18 15:25:49] INFO value=t, rtn=t
+[2019/08/18 15:25:49] INFO value=h, rtn=h
+[2019/08/18 15:25:49] INFO value=a, rtn=a
+[2019/08/18 15:25:50] INFO value=t, rtn=t
+[2019/08/18 15:25:50] INFO value=Space, rtn= 
+[2019/08/18 15:25:50] INFO value=l, rtn=l
+[2019/08/18 15:25:51] INFO value=a, rtn=a
+[2019/08/18 15:25:51] INFO value=s, rtn=s
+[2019/08/18 15:25:51] INFO value=t, rtn=t
+[2019/08/18 15:25:51] INFO value=i, rtn=i
+[2019/08/18 15:25:51] INFO value=n, rtn=n
+[2019/08/18 15:25:52] INFO value=g, rtn=g
+[2019/08/18 15:25:52] INFO value=Space, rtn= 
+[2019/08/18 15:25:52] INFO value=c, rtn=c
+[2019/08/18 15:25:52] INFO value=h, rtn=h
+[2019/08/18 15:25:52] INFO value=a, rtn=a
+[2019/08/18 15:25:52] INFO value=n, rtn=n
+[2019/08/18 15:25:53] INFO value=g, rtn=g
+[2019/08/18 15:25:53] INFO value=e, rtn=e
+[2019/08/18 15:25:53] INFO value=Space, rtn= 
+[2019/08/18 15:25:53] INFO value=w, rtn=w
+[2019/08/18 15:25:53] INFO value=i, rtn=i
+[2019/08/18 15:25:54] INFO value=l, rtn=l
+[2019/08/18 15:25:54] INFO value=l, rtn=l
+[2019/08/18 15:25:54] INFO value=Space, rtn= 
+[2019/08/18 15:25:54] INFO value=a, rtn=a
+[2019/08/18 15:25:55] INFO value=c, rtn=c
+[2019/08/18 15:25:55] INFO value=t, rtn=t
+[2019/08/18 15:25:55] INFO value=u, rtn=u
+[2019/08/18 15:25:55] INFO value=l, rtn=l
+[2019/08/18 15:25:55] INFO value=a, rtn=a
+[2019/08/18 15:25:56] INFO value=l, rtn=l
+[2019/08/18 15:25:56] INFO value=l, rtn=l
+[2019/08/18 15:25:56] INFO value=y, rtn=y
+[2019/08/18 15:26:01] INFO value=Left, rtn=Left
+[2019/08/18 15:26:02] INFO value=Left, rtn=Left
+[2019/08/18 15:26:05] INFO value=LButton, rtn=LButton
+[2019/08/18 15:26:06] INFO value=LButton, rtn=LButton
+[2019/08/18 15:26:08] INFO value=Space, rtn= 
+[2019/08/18 15:26:09] INFO value=o, rtn=o
+[2019/08/18 15:26:10] INFO value=c, rtn=c
+[2019/08/18 15:26:10] INFO value=c, rtn=c
+[2019/08/18 15:26:10] INFO value=u, rtn=u
+[2019/08/18 15:26:11] INFO value=r, rtn=r
+[2019/08/18 15:26:11] INFO value=., rtn=.
+[2019/08/18 15:26:11] INFO value=Enter, rtn=Enter
+[2019/08/18 15:26:14] INFO line=2019/08/18 15:26	9964	75	0	4	23	BackSpace,BackSpace,BackSpace,t,BackSpace,ettes with disgust, ,",2, 2,As,BackSpace,BackSpace,ashtray mousth,BackSpace,,, and death that lasting change will actulally,LButton,LButton, occur.,Enter
+[2019/08/18 15:26:36] INFO value=LButton, rtn=LButton
+[2019/08/18 15:26:38] INFO value=LButton, rtn=LButton
+[2019/08/18 15:26:40] INFO value=LButton, rtn=LButton
+[2019/08/18 15:27:42] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:27:42] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:27:42] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:27:44] INFO value=LButton, rtn=LButton
+[2019/08/18 15:27:45] INFO value=LButton, rtn=LButton
+[2019/08/18 15:27:54] INFO value=LButton, rtn=LButton
+[2019/08/18 15:27:57] INFO value=LButton, rtn=LButton
+[2019/08/18 15:28:01] INFO value=LButton, rtn=LButton
+[2019/08/18 15:28:04] INFO value=LButton, rtn=LButton
+[2019/08/18 15:28:05] INFO value=1, rtn=1
+[2019/08/18 15:28:08] INFO value=2, rtn=2
+[2019/08/18 15:28:08] INFO value=3, rtn=3
+[2019/08/18 15:28:11] INFO value=3, rtn=3
+[2019/08/18 15:28:12] INFO value=3, rtn=3
+[2019/08/18 15:28:15] INFO value=3, rtn=3
+[2019/08/18 15:28:16] INFO value=3, rtn=3
+[2019/08/18 15:28:18] INFO value=3, rtn=3
+[2019/08/18 15:28:19] INFO value=3, rtn=3
+[2019/08/18 15:28:20] INFO value=3, rtn=3
+[2019/08/18 15:28:22] INFO value=3, rtn=3
+[2019/08/18 15:28:45] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:28:45] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:28:45] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:29:44] INFO line=2019/08/18 15:29	10576	17	20	6	22	LButton,LButton,BackSpace,BackSpace,BackSpace,#,BackSpace,BackSpace,#,3, SPACE,Test input,Enter,- ,BackSpace,BackSpace,##,3, SPACE,BackSpace,BackSpace,#,3, 3, ,numerice,BackSpace,Enter,12345678901234567890,Enter,Enter
+[2019/08/18 15:30:44] INFO line=2019/08/18 15:30	1076	0	0	0	4	LButton,LButton,End,LButton
+[2019/08/18 15:31:44] INFO line=2019/08/18 15:31	10576	86	0	4	24	LButton,### alphabet,Enter,daly,BackSpace,BackSpace,ily lessons in self-master giant step small changes to make a gib ,BackSpace,BackSpace,BackSpace,BackSpace,gib difference ,Tony 
+[2019/08/18 15:32:43] INFO line=2019/08/18 15:32	1076	36	0	12	86	BackSpace,BackSpace,BackSpace,T,BackSpace,Robbinson,BackSpace,BackSpace,BackSpace,s,Enter,AU,U, T,T, H,H, O,O, R,R, SPACE,SPACE, O,O, F,F, SPACE,SPACE, T,H,H, E,E, SPACE,SPACE, N,N, A,T,T, I,O,O, N,N, A,A, L,L, SPACE,B,B, E,E, S,S, T,SE,E, L,L, L,L, E,E, R,R, S,Enter,MM,OO,O, N,N, Y,BackSpace,e,BackSpace,E,E, Y, ,Master,BackSpace,BackSpace,BackSpace,BackSpace,BackSpace,A,A, S,S, T,T, E,E, R,SPACE,SPACE, T,T, H,H, E,E, SPACE,SPACE, G,G, A,A, M,M, E,E, SPACE,SPACE, A,A, N,N, D,D, SPACE,SPACE, A,A, W,W, A,K,K, E,E, N,N, SPACE,SPACE, T,T, H,H, E,E, SPACE,SPACE, G,I,I, A,A, N,N, T,T, SPACE,T,BACKSPACE,BACKSPACE, W,I,I, T,T, H,H, I,I, N,LButton
+[2019/08/18 15:35:03] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 15:35:03] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 15:35:03] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 15:36:03] INFO line=2019/08/18 15:36	1076	14	0	7	56	LButton,LButton,Enter,Enter,H,H, A,BackSpace,BackSpace,W,W, H,H, A,A, T,T, SPACE,GG,G, O,O, O,O, D,D, E,BACKSPACE, I,I, S,I, S,I, S,S, SPACE,NNPP,I,I, R,R, A,A, T,T, I,I, O,O, N,N, SPACE,SPACE, I,I, F,F, SPACE,I,I, T,'S,S, SPACE,SPACE, N,O,O, T,T, SPACE,SPACE, B,B, A,A, C,C, K,K, E,E, D,D, SPACE,SPACE, U,U, P,P, SPACE,SPACE, B,B, Y,Y, SPACE,SPACE, A,A, C,C, T,I,I, O,O, N,N, /,LButton
+[2019/08/18 15:37:02] INFO line=2019/08/18 15:37	10648	0	0	2	14	LButton,LButton,LButton,LButton,End,Home,End,LButton,LButton,Double-Click,LButton,LButton,Double-Click,Ctrl + v
