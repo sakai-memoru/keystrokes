@@ -57,11 +57,7 @@ function convert-value($value){
       if($C_shift_key_dic.ContainsKey($value)){
         $rtn = $C_shift_key_dic[$value]
       }else{
-        $start = 'Shift + '.Length
-        $len = $value.Length
-        $str = $value.Substring($start,$len - $start)
-        $rtn = $str.ToUpper().Trim()
-        
+        $rtn = $value.ToUpper().Substring($value.Length - 1, 1)
         ## FIXME When some chars inputting
         # $tmp_strs = str.Split(",")
         # $tmp_formatted = $tmp_strs | Foreach-Object {$_.ToUpper()} | Foreach-Object {$_.Trim()}
@@ -73,7 +69,7 @@ function convert-value($value){
       $rtn = $value
     }
   }
-  ## $logger.info.Invoke("value=$value, rtn=$rtn")
+  $logger.info.Invoke("value=$value, rtn=$rtn")
   ## return
   $rtn
 }

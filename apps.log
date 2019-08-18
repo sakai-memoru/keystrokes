@@ -2380,3 +2380,339 @@
 [2019/08/18 15:35:03] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
 [2019/08/18 15:36:03] INFO line=2019/08/18 15:36	1076	14	0	7	56	LButton,LButton,Enter,Enter,H,H, A,BackSpace,BackSpace,W,W, H,H, A,A, T,T, SPACE,GG,G, O,O, O,O, D,D, E,BACKSPACE, I,I, S,I, S,I, S,S, SPACE,NNPP,I,I, R,R, A,A, T,T, I,I, O,O, N,N, SPACE,SPACE, I,I, F,F, SPACE,I,I, T,'S,S, SPACE,SPACE, N,O,O, T,T, SPACE,SPACE, B,B, A,A, C,C, K,K, E,E, D,D, SPACE,SPACE, U,U, P,P, SPACE,SPACE, B,B, Y,Y, SPACE,SPACE, A,A, C,C, T,I,I, O,O, N,N, /,LButton
 [2019/08/18 15:37:02] INFO line=2019/08/18 15:37	10648	0	0	2	14	LButton,LButton,LButton,LButton,End,Home,End,LButton,LButton,Double-Click,LButton,LButton,Double-Click,Ctrl + v
+[2019/08/18 18:32:19] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:32:19] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:32:19] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:34:57] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:34:58] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:34:58] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:35:58] INFO line=2019/08/18 18:35	6664	0	0	0	32	LButton,LButton,LButton,LButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton
+[2019/08/18 18:36:57] INFO line=2019/08/18 18:36	12012	0	0	0	24	RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton
+[2019/08/18 18:37:57] INFO line=2019/08/18 18:37	12012	0	0	0	65	RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton
+[2019/08/18 18:38:10] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:38:10] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:38:10] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:38:34] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:38:34] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:38:35] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:38:56] INFO line=2019/08/18 18:38	12012	0	0	0	143	RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton
+[2019/08/18 18:39:56] INFO line=2019/08/18 18:39	12012	0	0	0	37	RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton
+[2019/08/18 18:40:11] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:40:11] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:40:11] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:40:56] INFO line=2019/08/18 18:40	9084	0	0	0	54	RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,RButton,LWin,LWin + Right,LButton
+[2019/08/18 18:41:11] INFO line=2019/08/18 18:41	9084	0	0	0	5	LButton,LWin + Right,LWin + Right,LWin + Right,LButton
+[2019/08/18 18:41:55] INFO line=2019/08/18 18:41	9084	7	0	1	7	Ctrl + End,BackSpace, ,hgh'ik,BackSpace,BackSpace,BackSpace
+[2019/08/18 18:42:11] INFO line=2019/08/18 18:42	9084	31	0	1	16	Tab,End,   ,ou we,d ke,BackSpace,ke toy t, usul dries our,BackSpace,bavou,BackSpace
+[2019/08/18 18:42:32] INFO line=2019/08/18 18:42	9084	5				isgu recti,tinteletallo,BackSpace,o. ym ,Home,BackSpace,
+[2019/08/18 18:42:55] INFO line=2019/08/18 18:42	12012	38	0	0	11	deniwhat alyv hehi taon no lcual ccuatin,ou ay,LButton,LButton,LButton,LButton
+[2019/08/18 18:43:55] INFO line=2019/08/18 18:43	15280	3	0	1	7	LButton, ,LButton,L,Ctrl + s,LButton,LButton,",2, 2
+[2019/08/18 18:44:54] INFO line=2019/08/18 18:44	12012	25	3	12	13	kai,.,Substring,(,"sakai,".,Lenght,,BackSpace,BackSpace,BackSpace,th, 1,),Enter,-1,Enter,LButton, - 1,Ctrl + s,LButton,LButton,LButton
+[2019/08/18 18:45:00] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:45:00] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:45:00] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:45:54] INFO line=2019/08/18 18:45	9084	39	0	3	12	LButton,LButton,LButton,HOME,Yumynsttcocols nealh yedo tl at t? 
+[2019/08/18 18:46:00] INFO line=2019/08/18 18:46	9084	56	0	7	12	Y,BackSpace,o a uderand hat hate iuhty,t  yousileiw,BackSpace,W?E
+[2019/08/18 18:46:53] INFO line=2019/08/18 18:46	9084	44	0	2	14	 sc b ha yooilltnow,tt,BackSpace,BackSpace,b ned y you,'v lanedo i,BackSpace
+[2019/08/18 18:47:00] INFO line=2019/08/18 18:47	9084	58	0	3	18	ecually k ha,BackSpace,BackSpace,utistabwhat ,een,BackSpace,r tk,BackSpace,lnk,u,End,  and easure t in ourerousysm t
+[2019/08/18 18:47:53] INFO line=2019/08/18 18:47	9084	32	0	3	13	te.Iune-scions ass ,Enter,  ston s w,rees,BackSpace,BackSpace,simt,BackSpace,BackSpace,anh,BackSpace,BackSpace
+[2019/08/18 18:47:59] INFO line=2019/08/18 18:47	9084	41	0	2	12	uroasoiat dyu,Enter,theasociai,BackSpace,e,'ve ,BackSpace,BackSpace,at,BackSpace,tae,BackSpace,BackSpace,BackSpace,blis,bT,End
+[2019/08/18 18:48:53] INFO line=2019/08/18 18:48	9084	29	0	3	13	 n unroussste dasu ,Enter, hataermie wa,BackSpace,BackSpace,e'ld.,Double-Click,LButton,LButton,LButton
+[2019/08/18 18:48:59] INFO line=2019/08/18 18:48	9084	28	0	1	17	ev yms sy,Enter,t det,BackSpace,a,BackSpace,BackSpace,inht ,BackSpace,BackSpace,hat wl o,Enter,LButton,LButton,LButton
+[2019/08/18 18:49:52] INFO line=2019/08/18 18:49	9084	4	2	0	8	IN,T, SPACE,T, E,15,LButton,Double-Click,Double-Click,LButton,LButton
+[2019/08/18 18:49:58] INFO line=2019/08/18 18:49	9084	4	1	0	6	2,LButton,LButton,Double-Click,LButton,Double-Click,LButton
+[2019/08/18 18:50:52] INFO line=2019/08/18 18:50	9084	50	0	7	14	press frm kiga hag?some r bli ,t ,BackSpace,h eol aclu,BackSpace,,h k,  Mapoleo
+[2019/08/18 18:50:58] INFO line=2019/08/18 18:50	9084	69	0	3	25	nt uoman cne  ofoueefs,BackSpace, boprsnand utral  can oldus bac,BackSpace,.,Enter,  ny ep dn
+[2019/08/18 18:51:51] INFO line=2019/08/18 18:51	9084	48	0	2	17	he,BackSpace,BackSpace,erlbce priouatmpsv led, ,BackSpace, ,End, tit hnk chng a tobso,BackSpace,n nl, ,BackSpace
+[2019/08/18 18:51:58] INFO line=2019/08/18 18:51	9084	43	0	3	12	eausevs tet thaefai,BackSpace,.,BackSpace,Orhey mghtiaehs e a,BackSpace, lgg,paifu,BackSpace
+[2019/08/18 18:52:51] INFO line=2019/08/18 18:52	9084	55	0	4	20	 no,yage te hy hven, thy,BackSpace,e han ey ,F,BackSpace,re,BackSpace
+[2019/08/18 18:52:57] INFO line=2019/08/18 18:52	9084	65	0	4	13	t the ru,hnwa'tycgedalra,BackSpace,ad?,utther,BackSpace,more ,BackSpace, ifeol rle
+[2019/08/18 18:53:51] INFO line=2019/08/18 18:53	11608	23	0	2	9	te inu,BackSpace,BackSpace,us,y ae ace rfrie,BackSpace,ndn my:,LButton
+[2019/08/18 18:53:57] INFO line=2019/08/18 18:53	11608	18	0	0	10	 ouhvto fyou es adfail,BackSpace, ,LButton,Double-Click,LButton,Double-Click
+[2019/08/18 18:54:50] INFO line=2019/08/18 18:54	12012	0	0	0	5	LButton,LButton,LButton,LButton,LButton
+[2019/08/18 18:55:12] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:55:12] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:55:12] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:55:21] INFO value=LButton, rtn=LButton
+[2019/08/18 18:55:35] INFO value=LButton, rtn=LButton
+[2019/08/18 18:55:37] INFO value=LButton, rtn=LButton
+[2019/08/18 18:55:39] INFO value=LButton, rtn=LButton
+[2019/08/18 18:55:46] INFO value=Shift, rtn=Shift
+[2019/08/18 18:55:47] INFO value=Shift, rtn=Shift
+[2019/08/18 18:55:50] INFO line=2019/08/18 18:55	16016	4	0	3	10	Home,BackSpace,BackSpace,BackSpace,Ctrl + s,Ctrl + F5,Enter,LButton,LButton,# 
+[2019/08/18 18:56:04] INFO value=LButton, rtn=LButton
+[2019/08/18 18:56:12] INFO line=2019/08/18 18:56	12012	0	0	0	5	LButton,LButton,LButton,LButton,LButton
+[2019/08/18 18:56:28] INFO value=d, rtn=d
+[2019/08/18 18:56:37] INFO value=Up, rtn=Up
+[2019/08/18 18:56:50] INFO line=2019/08/18 18:56	16016	3	0	0	4	LButton,LButton,Enter,ump,Enter
+[2019/08/18 18:56:50] INFO value=d, rtn=d
+[2019/08/18 18:56:51] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 18:56:54] INFO value=d, rtn=d
+[2019/08/18 18:56:58] INFO value=m, rtn=m
+[2019/08/18 18:57:00] INFO value=p, rtn=p
+[2019/08/18 18:57:02] INFO value=d, rtn=d
+[2019/08/18 18:57:05] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 18:57:06] INFO value=Enter, rtn=Enter
+[2019/08/18 18:57:09] INFO value=u, rtn=u
+[2019/08/18 18:57:10] INFO value=p, rtn=p
+[2019/08/18 18:57:12] INFO line=2019/08/18 18:57	16016	8	0	0	3	d,d,BackSpace,dmpd,BackSpace,Enter
+[2019/08/18 18:57:18] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 18:57:19] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 18:57:20] INFO value=d, rtn=d
+[2019/08/18 18:57:23] INFO value=m, rtn=m
+[2019/08/18 18:57:32] INFO value=Enter, rtn=Enter
+[2019/08/18 18:57:35] INFO value=u, rtn=u
+[2019/08/18 18:57:43] INFO value=LButton, rtn=LButton
+[2019/08/18 18:57:49] INFO value=Right, rtn=Right
+[2019/08/18 18:57:49] INFO value=Left, rtn=Left
+[2019/08/18 18:57:49] INFO line=2019/08/18 18:57	12012	9				End,Enter,uuu,BackSpace,BackSpace,dmdum,BackSpace,Enter,upd,
+[2019/08/18 18:57:49] INFO value=Left, rtn=Left
+[2019/08/18 18:57:49] INFO value=Left, rtn=Left
+[2019/08/18 18:57:51] INFO value=LButton, rtn=LButton
+[2019/08/18 18:58:24] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 18:58:24] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 18:58:24] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 18:58:26] INFO value=LButton, rtn=LButton
+[2019/08/18 18:58:27] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:27] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:27] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:27] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:27] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:27] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:27] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:28] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:29] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:29] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:29] INFO value=Shift + Up, rtn=UP
+[2019/08/18 18:58:30] INFO value=Shift + Up, Up, rtn=UP, UP
+[2019/08/18 18:58:30] INFO value=Shift + Up (3), rtn=UP (3)
+[2019/08/18 18:58:30] INFO value=Shift + Up (4), rtn=UP (4)
+[2019/08/18 18:58:30] INFO value=Shift + Up (5), rtn=UP (5)
+[2019/08/18 18:58:31] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 18:58:33] INFO value=d, rtn=d
+[2019/08/18 18:58:33] INFO value=u, rtn=u
+[2019/08/18 18:58:33] INFO value=m, rtn=m
+[2019/08/18 18:58:33] INFO value=p, rtn=p
+[2019/08/18 18:58:37] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:37] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:37] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:37] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:37] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:38] INFO value=Enter, rtn=Enter
+[2019/08/18 18:58:38] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:38] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:40] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:40] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:53] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:53] INFO value=Shift, rtn=Shift
+[2019/08/18 18:58:54] INFO value=, rtn=
+[2019/08/18 18:58:54] INFO value=, rtn=
+[2019/08/18 18:58:57] INFO value=, rtn=
+[2019/08/18 18:58:57] INFO value=, rtn=
+[2019/08/18 18:59:04] INFO value=LButton, rtn=LButton
+[2019/08/18 18:59:06] INFO value=LButton, rtn=LButton
+[2019/08/18 18:59:07] INFO value=, rtn=
+[2019/08/18 18:59:07] INFO value=, rtn=
+[2019/08/18 18:59:07] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:07] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:07] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:07] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:07] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:07] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:08] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:08] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:08] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:08] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:08] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:08] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:09] INFO value=Shift + d, rtn=D
+[2019/08/18 18:59:09] INFO value=u, rtn=u
+[2019/08/18 18:59:09] INFO value=m, rtn=m
+[2019/08/18 18:59:10] INFO value=p, rtn=p
+[2019/08/18 18:59:16] INFO value=Enter, rtn=Enter
+[2019/08/18 18:59:16] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:16] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:18] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:18] INFO value=Shift, rtn=Shift
+[2019/08/18 18:59:18] INFO value=Shift + g, rtn=G
+[2019/08/18 18:59:18] INFO value=Shift + g, i, rtn=G, I
+[2019/08/18 18:59:18] INFO value=Shift + i, a, rtn=I, A
+[2019/08/18 18:59:19] INFO value=Shift + a, n, rtn=A, N
+[2019/08/18 18:59:19] INFO value=Shift + n, t, rtn=N, T
+[2019/08/18 18:59:24] INFO line=2019/08/18 18:59	16016	9	0	6	14	LButton,UP, UP,UP (3),UP (4),UP (5),BackSpace,dump,Enter,LButton,LButton,Dump,Enter,G,G, I,I, A,A, N,N, T
+[2019/08/18 18:59:32] INFO value=LButton, rtn=LButton
+[2019/08/18 18:59:42] INFO value=Left, rtn=Left
+[2019/08/18 18:59:45] INFO value=LButton, rtn=LButton
+[2019/08/18 19:03:30] INFO get config from ./keystrokes.config.ps1
+[2019/08/18 19:03:30] WARN Keylogger started. Press CTRL+C to see results...
+[2019/08/18 19:03:30] INFO Output keystroke log to ... G:\Users\sakai\AppData\Local\Temp\Keystrokes_190818.txt
+[2019/08/18 19:03:35] INFO value=LButton, rtn=LButton
+[2019/08/18 19:03:37] INFO value=LButton, rtn=LButton
+[2019/08/18 19:03:38] INFO value=Enter, rtn=Enter
+[2019/08/18 19:03:39] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:39] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:40] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:41] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:41] INFO value=Shift, rtn=Shift
+[2019/08/18 19:03:41] INFO value=Shift + g, rtn=G
+[2019/08/18 19:03:41] INFO value=Shift + g, i, rtn=I
+[2019/08/18 19:03:42] INFO value=Shift + i, a, rtn=A
+[2019/08/18 19:03:42] INFO value=Shift + a, n, rtn=N
+[2019/08/18 19:03:42] INFO value=Shift + n, t, rtn=T
+[2019/08/18 19:03:49] INFO value=Space, rtn= 
+[2019/08/18 19:03:49] INFO value=, rtn=
+[2019/08/18 19:03:49] INFO value=, rtn=
+[2019/08/18 19:03:49] INFO value=Shift + s, rtn=S
+[2019/08/18 19:03:50] INFO value=Shift + s, t, rtn=T
+[2019/08/18 19:03:50] INFO value=Shift + e, rtn=E
+[2019/08/18 19:03:50] INFO value=Shift + e, p, rtn=P
+[2019/08/18 19:03:57] INFO value=Space, rtn= 
+[2019/08/18 19:03:57] INFO value=1, rtn=1
+[2019/08/18 19:03:57] INFO value=1, rtn=1
+[2019/08/18 19:03:57] INFO value=2, rtn=2
+[2019/08/18 19:04:00] INFO value=Enter, rtn=Enter
+[2019/08/18 19:04:03] INFO value=, rtn=
+[2019/08/18 19:04:03] INFO value=, rtn=
+[2019/08/18 19:04:03] INFO value=Shift + d, rtn=D
+[2019/08/18 19:04:04] INFO value=o, rtn=o
+[2019/08/18 19:04:04] INFO value=l, rtn=l
+[2019/08/18 19:04:05] INFO value=p, rtn=p
+[2019/08/18 19:04:05] INFO value=h, rtn=h
+[2019/08/18 19:04:05] INFO value=i, rtn=i
+[2019/08/18 19:04:06] INFO value=n, rtn=n
+[2019/08/18 19:04:06] INFO value=Space, rtn= 
+[2019/08/18 19:04:06] INFO value=, rtn=
+[2019/08/18 19:04:06] INFO value=, rtn=
+[2019/08/18 19:04:06] INFO value=Shift + k, rtn=K
+[2019/08/18 19:04:07] INFO value=i, rtn=i
+[2019/08/18 19:04:08] INFO value=c, rtn=c
+[2019/08/18 19:04:08] INFO value=k, rtn=k
+[2019/08/18 19:04:08] INFO value=Enter, rtn=Enter
+[2019/08/18 19:04:09] INFO value=, rtn=
+[2019/08/18 19:04:09] INFO value=, rtn=
+[2019/08/18 19:04:09] INFO value=Shift + o, rtn=O
+[2019/08/18 19:04:09] INFO value=v, rtn=v
+[2019/08/18 19:04:10] INFO value=e, rtn=e
+[2019/08/18 19:04:10] INFO value=r, rtn=r
+[2019/08/18 19:04:11] INFO value=Space, rtn= 
+[2019/08/18 19:04:11] INFO value=t, rtn=t
+[2019/08/18 19:04:11] INFO value=h, rtn=h
+[2019/08/18 19:04:11] INFO value=e, rtn=e
+[2019/08/18 19:04:11] INFO value=Space, rtn= 
+[2019/08/18 19:04:12] INFO value=, rtn=
+[2019/08/18 19:04:12] INFO value=, rtn=
+[2019/08/18 19:04:13] INFO value=f, rtn=f
+[2019/08/18 19:04:13] INFO value=u, rtn=u
+[2019/08/18 19:04:13] INFO value=t, rtn=t
+[2019/08/18 19:04:14] INFO value=r, rtn=r
+[2019/08/18 19:04:14] INFO value=e, rtn=e
+[2019/08/18 19:04:14] INFO value=Space, rtn= 
+[2019/08/18 19:04:14] INFO value=w, rtn=w
+[2019/08/18 19:04:15] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:15] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:15] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:16] INFO value=u, rtn=u
+[2019/08/18 19:04:16] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:17] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:17] INFO value=u, rtn=u
+[2019/08/18 19:04:17] INFO value=r, rtn=r
+[2019/08/18 19:04:17] INFO value=e, rtn=e
+[2019/08/18 19:04:17] INFO value=Space, rtn= 
+[2019/08/18 19:04:18] INFO value=w, rtn=w
+[2019/08/18 19:04:18] INFO value=o, rtn=o
+[2019/08/18 19:04:19] INFO value=r, rtn=r
+[2019/08/18 19:04:20] INFO value=l, rtn=l
+[2019/08/18 19:04:20] INFO value=d, rtn=d
+[2019/08/18 19:04:23] INFO value=Enter, rtn=Enter
+[2019/08/18 19:04:24] INFO value=Shift, rtn=Shift
+[2019/08/18 19:04:24] INFO value=Shift, rtn=Shift
+[2019/08/18 19:04:24] INFO value=Shift + o, rtn=O
+[2019/08/18 19:04:25] INFO value=v, rtn=v
+[2019/08/18 19:04:25] INFO value=e, rtn=e
+[2019/08/18 19:04:25] INFO value=r, rtn=r
+[2019/08/18 19:04:27] INFO value=Space, rtn= 
+[2019/08/18 19:04:29] INFO value=t, rtn=t
+[2019/08/18 19:04:29] INFO value=h, rtn=h
+[2019/08/18 19:04:29] INFO value=Space, rtn= 
+[2019/08/18 19:04:29] INFO value=Shift, rtn=Shift
+[2019/08/18 19:04:29] INFO value=Shift, rtn=Shift
+[2019/08/18 19:04:29] INFO value=Shift + f, rtn=F
+[2019/08/18 19:04:30] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:30] INFO line=2019/08/18 19:04	16016	49	3	10	21	LButton,LButton,Enter,GIANT STEP 112,Enter,Dolphin Kick,Enter,Over the futre w,BackSpace,BackSpace,BackSpace,u,BackSpace,BackSpace,ure world,Enter,Over th ,F,BackSpace
+[2019/08/18 19:04:30] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:30] INFO value=e, rtn=e
+[2019/08/18 19:04:30] INFO value=Space, rtn= 
+[2019/08/18 19:04:30] INFO value=, rtn=
+[2019/08/18 19:04:30] INFO value=, rtn=
+[2019/08/18 19:04:31] INFO value=Shift + f, rtn=F
+[2019/08/18 19:04:31] INFO value=u, rtn=u
+[2019/08/18 19:04:31] INFO value=t, rtn=t
+[2019/08/18 19:04:32] INFO value=u, rtn=u
+[2019/08/18 19:04:32] INFO value=r, rtn=r
+[2019/08/18 19:04:32] INFO value=e, rtn=e
+[2019/08/18 19:04:32] INFO value=Space, rtn= 
+[2019/08/18 19:04:32] INFO value=w, rtn=w
+[2019/08/18 19:04:33] INFO value=BackSpace, rtn=BackSpace
+[2019/08/18 19:04:33] INFO value=Shift, rtn=Shift
+[2019/08/18 19:04:33] INFO value=Shift, rtn=Shift
+[2019/08/18 19:04:33] INFO value=Shift + w, rtn=W
+[2019/08/18 19:04:33] INFO value=o, rtn=o
+[2019/08/18 19:04:34] INFO value=r, rtn=r
+[2019/08/18 19:04:34] INFO value=l, rtn=l
+[2019/08/18 19:04:34] INFO value=d, rtn=d
+[2019/08/18 19:04:46] INFO value=LButton, rtn=LButton
+[2019/08/18 19:04:50] INFO value=Home, rtn=Home
+[2019/08/18 19:04:50] INFO value=Home, rtn=Home
+[2019/08/18 19:04:53] INFO value=Home, rtn=Home
+[2019/08/18 19:04:55] INFO value=LButton, rtn=LButton
